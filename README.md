@@ -1,7 +1,5 @@
 # PhenoCompass
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20059046.svg)](https://doi.org/10.5281/zenodo.20059046)
-
 PhenoCompass is a multimodal deep learning framework designed to enable phenotypic virtual screening at the scale of billions of compounds. It combines Cell Painting morphological profiles with chemical structure embeddings to score molecules against mechanism-of-action (MoA) anchor sets.
 
 Pretrained models and input data are available on Zenodo: [10.5281/zenodo.20059046](https://doi.org/10.5281/zenodo.20059046).
@@ -56,7 +54,7 @@ All notebooks live in `notebooks/` and are prefixed with their manuscript figure
 | `Fig3_anchor_compounds_diversity.ipynb` | Anchor set clustermaps, cosine/Tanimoto heatmaps |
 | `Fig3_jump_simulated_vs.ipynb` | Leave-one-out MoA classification baselines |
 | `Fig4_historical_hts_simulated_vs.ipynb` | HTS violin plots, statistical tests, drug-anchor similarity |
-| `Fig5_cellpainting_foxo3a_validation.ipynb` | Cell Painting validation (Venn diagrams, ROC curves, UMAP, enrichment) |
+| `Fig5_cellpainting_foxo3a_validation.ipynb` | Cell Painting validation (ROC curves, UMAP, enrichment) |
 | `Fig5_hit_analysis.ipynb` | Hit compound summary heatmaps, Tanimoto analysis, molecule grids |
 | `FigS1_jump_map_cross_source_reproducibility.ipynb` | Cross-source reproducibility clustermaps |
 | `FigS9_jump_hts_enamine_distribution_shift.ipynb` | JUMP-Enamine-HTS Tanimoto similarity distributions |
