@@ -1,0 +1,13 @@
+# Default PyTorch Lightning Trainer Configuration
+_target_: pytorch_lightning.Trainer
+accelerator: auto
+devices: auto
+max_epochs: 500
+min_epochs: 1
+precision: 32
+gradient_clip_val: 0.0
+accumulate_grad_batches: 1
+deterministic: false
+enable_checkpointing: true
+enable_progress_bar: true
+enable_model_summary: true

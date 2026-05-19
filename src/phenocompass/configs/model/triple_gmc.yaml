@@ -1,0 +1,69 @@
+# Triple Contrastive Model (GMC) Configuration
+_target_: phenocompass.models.contrastive.TripleContrastive_PL
+loss_name: gmc
+temperature: 0.2
+lr: 0.0001
+use_weighted_loss: false
+share_weights: false
+optimizer: adam
+
+encode_dim: 256
+proj_dim: 256
+latent_dim: 256
+hid_dim: 256
+
+encoders_mod:
+  struct:
+    _target_: phenocompass.models.components.GNEpropGIN
+    in_channels: 133
+    edge_dim: 12
+    hidden_channels: ${...encode_dim}
+    ffn_hidden_channels: null
+    num_layers: 5
+    out_channels: 1
+    num_readout_layers: 2
+    mol_features_size: 0
+    dropout: 0.1
+    jk: none
+  morph:
+    _target_: phenocompass.models.components.MultiLayerPerceptron
+    num_input_features: 3297
+    hidden_layer_dimensions:
+      - ${....hid_dim}
+      - ${....hid_dim}
+    output_size: ${...encode_dim}
+    nonlin: ReLU
+    p_dropout: 0.1
+
+projectors_mod:
+  struct:
+    _target_: phenocompass.models.components.MultiLayerPerceptron
+    num_input_features: ${...encode_dim}
+    hidden_layer_dimensions:
+      - ${....hid_dim}
+    output_size: ${...proj_dim}
+    nonlin: ReLU
+    p_dropout: 0.1
+  morph:
+    _target_: phenocompass.models.components.MultiLayerPerceptron
+    num_input_features: ${...encode_dim}
+    hidden_layer_dimensions:
+      - ${....hid_dim}
+    output_size: ${...latent_dim}
+    nonlin: ReLU
+    p_dropout: 0.1
+  joint:
+    _target_: phenocompass.models.components.MultiLayerPerceptron
+    num_input_features: ${sum:[${..[struct].num_input_features}, ${..[morph].num_input_features}]}
+    hidden_layer_dimensions:
+      - ${....hid_dim}
+    output_size: ${...proj_dim}
+    nonlin: ReLU
+    p_dropout: 0.1
+
+common_encoder:
+  _target_: phenocompass.models.components.CommonEncoder
+  common_dim: ${..proj_dim}
+  hidden_layer_dimensions:
+    - ${...hid_dim}
+  latent_dim: ${..latent_dim}

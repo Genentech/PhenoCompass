@@ -1,0 +1,241 @@
+seed	model_idx	model_type	auroc	partial_auroc_fpr0.01	partial_auroc_fpr0.05	partial_auroc_fpr0.1	ap	ap_baseline	model_name	classifier	representation
+0	0	gneprop_logistic_regression	0.7820727618615315	0.5127271006778062	0.5703301333732846	0.612147281137662	0.6276353855661337	0.3267098632109431	"GNEprop
+Embeddings + Logistic Regression"	"Logistic
+Regression"	"GNEprop
+Embeddings"
+1	0	gneprop_logistic_regression	0.7833003011165858	0.5135582241563665	0.5714955725828648	0.6139750772465349	0.6301705218034165	0.3267098632109431	"GNEprop
+Embeddings + Logistic Regression"	"Logistic
+Regression"	"GNEprop
+Embeddings"
+2	0	gneprop_logistic_regression	0.7816015013981356	0.5122335796699081	0.5704341490160773	0.6121971851404174	0.6267334952471332	0.3267098632109431	"GNEprop
+Embeddings + Logistic Regression"	"Logistic
+Regression"	"GNEprop
+Embeddings"
+3	0	gneprop_logistic_regression	0.7807779266123045	0.5126606032214638	0.5690281977997425	0.611711737256755	0.6254923454352127	0.3267098632109431	"GNEprop
+Embeddings + Logistic Regression"	"Logistic
+Regression"	"GNEprop
+Embeddings"
+4	0	gneprop_logistic_regression	0.7822001906908339	0.5127651804177631	0.5696064706391343	0.6125229997429001	0.6273209180084597	0.3267098632109431	"GNEprop
+Embeddings + Logistic Regression"	"Logistic
+Regression"	"GNEprop
+Embeddings"
+5	0	gneprop_logistic_regression	0.7815052700115102	0.5136673481872875	0.5693860657454844	0.611300401281757	0.626575615497678	0.3267098632109431	"GNEprop
+Embeddings + Logistic Regression"	"Logistic
+Regression"	"GNEprop
+Embeddings"
+0	0	gneprop_knn_classifier_euclidean	0.6668363832682178	0.5111122432849606	0.5336283117910107	0.5513762742234953	0.4683721699150259	0.3267098632109431	"GNEprop
+Embeddings + kNN Classifier"	"kNN
+Classifier"	"GNEprop
+Embeddings"
+1	0	gneprop_knn_classifier_euclidean	0.6654681256387935	0.5112547565989803	0.5347193992123964	0.5513674586362455	0.4678012320623098	0.3267098632109431	"GNEprop
+Embeddings + kNN Classifier"	"kNN
+Classifier"	"GNEprop
+Embeddings"
+2	0	gneprop_knn_classifier_euclidean	0.6600758691645231	0.5111988921319166	0.5325779928857798	0.5500011382790264	0.4640972758811909	0.3267098632109431	"GNEprop
+Embeddings + kNN Classifier"	"kNN
+Classifier"	"GNEprop
+Embeddings"
+3	0	gneprop_knn_classifier_euclidean	0.6593517303364688	0.5100500116002066	0.5307072302926342	0.5470026467007438	0.4602611468460117	0.3267098632109431	"GNEprop
+Embeddings + kNN Classifier"	"kNN
+Classifier"	"GNEprop
+Embeddings"
+4	0	gneprop_knn_classifier_euclidean	0.6603383612426347	0.5099009826438903	0.5311124186399082	0.5480889614554565	0.4602685209261587	0.3267098632109431	"GNEprop
+Embeddings + kNN Classifier"	"kNN
+Classifier"	"GNEprop
+Embeddings"
+5	0	gneprop_knn_classifier_euclidean	0.6606446805438422	0.5114654699965214	0.5353246495702566	0.552201707175896	0.4652678811115055	0.3267098632109431	"GNEprop
+Embeddings + kNN Classifier"	"kNN
+Classifier"	"GNEprop
+Embeddings"
+0	0	mf_logistic_regression	0.7768546832545322	0.5192796577220193	0.5703989615681437	0.6118192838551384	0.6276486520670961	0.3267098632109431	"Morgan
+Fingerprints + Logistic Regression"	"Logistic
+Regression"	"Morgan
+Fingerprints"
+1	0	mf_logistic_regression	0.7766630687501155	0.5199308023301368	0.5718988748707188	0.6136485681549482	0.6284448814617949	0.3267098632109431	"Morgan
+Fingerprints + Logistic Regression"	"Logistic
+Regression"	"Morgan
+Fingerprints"
+2	0	mf_logistic_regression	0.7774747677722689	0.5201090761375964	0.5721975815029021	0.6161176753449562	0.6307425843934519	0.3267098632109431	"Morgan
+Fingerprints + Logistic Regression"	"Logistic
+Regression"	"Morgan
+Fingerprints"
+3	0	mf_logistic_regression	0.7764288522998075	0.5199262554955151	0.5729183441726623	0.6142321374277263	0.6291820621160256	0.3267098632109431	"Morgan
+Fingerprints + Logistic Regression"	"Logistic
+Regression"	"Morgan
+Fingerprints"
+4	0	mf_logistic_regression	0.7761723923556275	0.5200207917653582	0.5725017015886137	0.614351589553606	0.6291633288439886	0.3267098632109431	"Morgan
+Fingerprints + Logistic Regression"	"Logistic
+Regression"	"Morgan
+Fingerprints"
+5	0	mf_logistic_regression	0.7767314015173079	0.5193056125696516	0.5722936703030284	0.6136544217059673	0.6286410457308195	0.3267098632109431	"Morgan
+Fingerprints + Logistic Regression"	"Logistic
+Regression"	"Morgan
+Fingerprints"
+0	0	mf_knn_classifier	0.6776558637431426	0.5157065753079101	0.5378425442218854	0.5584200554809905	0.4852404242819478	0.3267098632109431	"Morgan
+Fingerprints + kNN Classifier"	"kNN
+Classifier"	"Morgan
+Fingerprints"
+1	0	mf_knn_classifier	0.6748593099012578	0.5154611083023587	0.5339527570972519	0.5535315373735062	0.4799804792752108	0.3267098632109431	"Morgan
+Fingerprints + kNN Classifier"	"kNN
+Classifier"	"Morgan
+Fingerprints"
+2	0	mf_knn_classifier	0.6761420337565756	0.5174231432030728	0.538286420723937	0.5574285545242117	0.485548109588055	0.3267098632109431	"Morgan
+Fingerprints + kNN Classifier"	"kNN
+Classifier"	"Morgan
+Fingerprints"
+3	0	mf_knn_classifier	0.6786608266813349	0.5134987959452811	0.5347077362914414	0.5543246575569976	0.4822760800365838	0.3267098632109431	"Morgan
+Fingerprints + kNN Classifier"	"kNN
+Classifier"	"Morgan
+Fingerprints"
+4	0	mf_knn_classifier	0.6772669796087482	0.5168694575116104	0.53694877612302	0.5563544315841213	0.4851181152292403	0.3267098632109431	"Morgan
+Fingerprints + kNN Classifier"	"kNN
+Classifier"	"Morgan
+Fingerprints"
+5	0	mf_knn_classifier	0.6806561906094002	0.5175644049983134	0.5386788349657593	0.5590250098354971	0.4890655590590897	0.3267098632109431	"Morgan
+Fingerprints + kNN Classifier"	"kNN
+Classifier"	"Morgan
+Fingerprints"
+0	0	logistic_regression_0	0.8278463849232846	0.5429978416232886	0.6249027717162404	0.6752010382254938	0.7198688062405665	0.3267098632109431	"PhenoCompass
+(Curated Features)
+Embeddings + Logistic Regression"	"Logistic
+Regression"	"PhenoCompass
+(Curated Features)
+Embeddings"
+1	0	logistic_regression_0	0.8292947568314859	0.5450924167723568	0.6255413658949469	0.6746089366580101	0.7234139612324211	0.3267098632109431	"PhenoCompass
+(Curated Features)
+Embeddings + Logistic Regression"	"Logistic
+Regression"	"PhenoCompass
+(Curated Features)
+Embeddings"
+2	0	logistic_regression_0	0.825759549339274	0.5483163119705923	0.6326314433159359	0.6814950937618826	0.7235659882262461	0.3267098632109431	"PhenoCompass
+(Curated Features)
+Embeddings + Logistic Regression"	"Logistic
+Regression"	"PhenoCompass
+(Curated Features)
+Embeddings"
+3	0	logistic_regression_0	0.829241881407493	0.5498154412356588	0.6247656953394003	0.6766823834842237	0.7257499686232506	0.3267098632109431	"PhenoCompass
+(Curated Features)
+Embeddings + Logistic Regression"	"Logistic
+Regression"	"PhenoCompass
+(Curated Features)
+Embeddings"
+4	0	logistic_regression_0	0.8291257628293122	0.5542074940287889	0.6285558861596737	0.6763290869557703	0.7275382517094784	0.3267098632109431	"PhenoCompass
+(Curated Features)
+Embeddings + Logistic Regression"	"Logistic
+Regression"	"PhenoCompass
+(Curated Features)
+Embeddings"
+5	0	logistic_regression_0	0.8274256435815645	0.5481300812025447	0.626839241378343	0.6751735562995231	0.7224507021162774	0.3267098632109431	"PhenoCompass
+(Curated Features)
+Embeddings + Logistic Regression"	"Logistic
+Regression"	"PhenoCompass
+(Curated Features)
+Embeddings"
+0	0	knn_classifier_0	0.8068135120554081	0.536790010209505	0.6124168460312841	0.6618025865817773	0.6755269771568404	0.3267098632109431	"PhenoCompass
+(Curated Features)
+Embeddings + kNN Classifier"	"kNN
+Classifier"	"PhenoCompass
+(Curated Features)
+Embeddings"
+1	0	knn_classifier_0	0.8009540950837731	0.5330290168829888	0.6097790801325664	0.6590753559063062	0.6681368458756646	0.3267098632109431	"PhenoCompass
+(Curated Features)
+Embeddings + kNN Classifier"	"kNN
+Classifier"	"PhenoCompass
+(Curated Features)
+Embeddings"
+2	0	knn_classifier_0	0.8021849331620711	0.5438671145016438	0.6182977080309784	0.6667185581451973	0.6765522124802924	0.3267098632109431	"PhenoCompass
+(Curated Features)
+Embeddings + kNN Classifier"	"kNN
+Classifier"	"PhenoCompass
+(Curated Features)
+Embeddings"
+3	0	knn_classifier_0	0.8091994566555362	0.5449577414907042	0.6145521645104043	0.6618117133581468	0.6797965226858478	0.3267098632109431	"PhenoCompass
+(Curated Features)
+Embeddings + kNN Classifier"	"kNN
+Classifier"	"PhenoCompass
+(Curated Features)
+Embeddings"
+4	0	knn_classifier_0	0.8020340355616915	0.537061703406422	0.6110566303124014	0.6575527813996387	0.6698619823229643	0.3267098632109431	"PhenoCompass
+(Curated Features)
+Embeddings + kNN Classifier"	"kNN
+Classifier"	"PhenoCompass
+(Curated Features)
+Embeddings"
+5	0	knn_classifier_0	0.7997091191915734	0.540218590166368	0.6090772164132309	0.6554901468317984	0.666374816028746	0.3267098632109431	"PhenoCompass
+(Curated Features)
+Embeddings + kNN Classifier"	"kNN
+Classifier"	"PhenoCompass
+(Curated Features)
+Embeddings"
+0	1	logistic_regression_1	0.8171482068916376	0.5466582329452084	0.610601974195633	0.6559132899796195	0.7012778810635067	0.3267098632109431	"PhenoCompass
+(GNEprop)
+Embeddings + Logistic Regression"	"Logistic
+Regression"	"PhenoCompass
+(GNEprop)
+Embeddings"
+1	1	logistic_regression_1	0.8197643622281345	0.5437664461258003	0.6140346837454165	0.655869834804258	0.7046474966797399	0.3267098632109431	"PhenoCompass
+(GNEprop)
+Embeddings + Logistic Regression"	"Logistic
+Regression"	"PhenoCompass
+(GNEprop)
+Embeddings"
+2	1	logistic_regression_1	0.8209132952378942	0.5446392489217262	0.6173301235807338	0.6595685845591777	0.7066487676356025	0.3267098632109431	"PhenoCompass
+(GNEprop)
+Embeddings + Logistic Regression"	"Logistic
+Regression"	"PhenoCompass
+(GNEprop)
+Embeddings"
+3	1	logistic_regression_1	0.8161489462050527	0.5502754293382219	0.6130223679356352	0.6561234225399296	0.7040216971773507	0.3267098632109431	"PhenoCompass
+(GNEprop)
+Embeddings + Logistic Regression"	"Logistic
+Regression"	"PhenoCompass
+(GNEprop)
+Embeddings"
+4	1	logistic_regression_1	0.8192488032811793	0.5526125023337812	0.6201340991707373	0.6633244808460799	0.7103901923628383	0.3267098632109431	"PhenoCompass
+(GNEprop)
+Embeddings + Logistic Regression"	"Logistic
+Regression"	"PhenoCompass
+(GNEprop)
+Embeddings"
+5	1	logistic_regression_1	0.8181850741632017	0.5445269042162815	0.6129968473690022	0.6600373647043454	0.7048413408450592	0.3267098632109431	"PhenoCompass
+(GNEprop)
+Embeddings + Logistic Regression"	"Logistic
+Regression"	"PhenoCompass
+(GNEprop)
+Embeddings"
+0	1	knn_classifier_1	0.8016905338099223	0.535458447802342	0.6014122268497366	0.6470024952636976	0.660521739956577	0.3267098632109431	"PhenoCompass
+(GNEprop)
+Embeddings + kNN Classifier"	"kNN
+Classifier"	"PhenoCompass
+(GNEprop)
+Embeddings"
+1	1	knn_classifier_1	0.802538661265896	0.5360354262498725	0.6055981498708221	0.6509272276537594	0.6613513445885566	0.3267098632109431	"PhenoCompass
+(GNEprop)
+Embeddings + kNN Classifier"	"kNN
+Classifier"	"PhenoCompass
+(GNEprop)
+Embeddings"
+2	1	knn_classifier_1	0.8083422338726187	0.5349175769916907	0.6071032194606275	0.6537218015798228	0.6683666135847819	0.3267098632109431	"PhenoCompass
+(GNEprop)
+Embeddings + kNN Classifier"	"kNN
+Classifier"	"PhenoCompass
+(GNEprop)
+Embeddings"
+3	1	knn_classifier_1	0.8032052120653235	0.5388763997551158	0.5987324427143966	0.6453887809153122	0.658410796930847	0.3267098632109431	"PhenoCompass
+(GNEprop)
+Embeddings + kNN Classifier"	"kNN
+Classifier"	"PhenoCompass
+(GNEprop)
+Embeddings"
+4	1	knn_classifier_1	0.797516956893994	0.540542045810822	0.6067338022550559	0.6483034653081561	0.6577008013374437	0.3267098632109431	"PhenoCompass
+(GNEprop)
+Embeddings + kNN Classifier"	"kNN
+Classifier"	"PhenoCompass
+(GNEprop)
+Embeddings"
+5	1	knn_classifier_1	0.7997847564959485	0.5396273564768491	0.6024688327374444	0.6434183595020465	0.6559679955876254	0.3267098632109431	"PhenoCompass
+(GNEprop)
+Embeddings + kNN Classifier"	"kNN
+Classifier"	"PhenoCompass
+(GNEprop)
+Embeddings"

@@ -1,0 +1,529 @@
+cluster_idx	moa	T_max	method	method_name	modality	max_fpr	seed	partial_auroc	method_name_rank	moa_rank
+3	PI3K/mTOR	0.15	ensemble_cross_model_joint_0	PhenoCompass	joint	0.01	0.0	0.8241820809500162	10	0
+3	PI3K/mTOR	0.15	ensemble_cross_model_joint_0	PhenoCompass	joint	0.05	0.0	0.9304082295277308	10	0
+3	PI3K/mTOR	0.15	ensemble_cross_model_joint_0	PhenoCompass	joint	0.1	0.0	0.9440455185936838	10	0
+3	PI3K/mTOR	0.15	ensemble_cross_model_joint_0	PhenoCompass	joint	0.2	0.0	0.9550026889242121	10	0
+3	PI3K/mTOR	0.15	ensemble_cross_model_joint_0	PhenoCompass	joint		0.0	0.9838009680127163	10	0
+3	PI3K/mTOR	0.15	ensemble_cross_model_joint_1	PhenoCompass	joint	0.01	1.0	0.82701814335021	10	0
+3	PI3K/mTOR	0.15	ensemble_cross_model_joint_1	PhenoCompass	joint	0.05	1.0	0.9298074003651686	10	0
+3	PI3K/mTOR	0.15	ensemble_cross_model_joint_1	PhenoCompass	joint	0.1	1.0	0.9437371983655267	10	0
+3	PI3K/mTOR	0.15	ensemble_cross_model_joint_1	PhenoCompass	joint	0.2	1.0	0.9489382222142845	10	0
+3	PI3K/mTOR	0.15	ensemble_cross_model_joint_1	PhenoCompass	joint		1.0	0.9805411584004572	10	0
+3	PI3K/mTOR	0.15	ensemble_cross_model_joint_2	PhenoCompass	joint	0.01	2.0	0.8649908649173607	10	0
+3	PI3K/mTOR	0.15	ensemble_cross_model_joint_2	PhenoCompass	joint	0.05	2.0	0.9408861039480245	10	0
+3	PI3K/mTOR	0.15	ensemble_cross_model_joint_2	PhenoCompass	joint	0.1	2.0	0.9494223225725187	10	0
+3	PI3K/mTOR	0.15	ensemble_cross_model_joint_2	PhenoCompass	joint	0.2	2.0	0.9643216469313521	10	0
+3	PI3K/mTOR	0.15	ensemble_cross_model_joint_2	PhenoCompass	joint		2.0	0.9871557928952868	10	0
+3	PI3K/mTOR	0.15	ensemble_cross_model_joint_3	PhenoCompass	joint	0.01	3.0	0.8096068741844639	10	0
+3	PI3K/mTOR	0.15	ensemble_cross_model_joint_3	PhenoCompass	joint	0.05	3.0	0.9199450094772558	10	0
+3	PI3K/mTOR	0.15	ensemble_cross_model_joint_3	PhenoCompass	joint	0.1	3.0	0.9386762346204136	10	0
+3	PI3K/mTOR	0.15	ensemble_cross_model_joint_3	PhenoCompass	joint	0.2	3.0	0.9462671580154747	10	0
+3	PI3K/mTOR	0.15	ensemble_cross_model_joint_3	PhenoCompass	joint		3.0	0.959054133700059	10	0
+3	PI3K/mTOR	0.15	ensemble_cross_model_joint_4	PhenoCompass	joint	0.01	4.0	0.8200267110408717	10	0
+3	PI3K/mTOR	0.15	ensemble_cross_model_joint_4	PhenoCompass	joint	0.05	4.0	0.9092326651398644	10	0
+3	PI3K/mTOR	0.15	ensemble_cross_model_joint_4	PhenoCompass	joint	0.1	4.0	0.9331791105525418	10	0
+3	PI3K/mTOR	0.15	ensemble_cross_model_joint_4	PhenoCompass	joint	0.2	4.0	0.9433658980907647	10	0
+3	PI3K/mTOR	0.15	ensemble_cross_model_joint_4	PhenoCompass	joint		4.0	0.9639549213266417	10	0
+3	PI3K/mTOR	0.15	ensemble_cross_model_joint_5	PhenoCompass	joint	0.01	5.0	0.7902301060768112	10	0
+3	PI3K/mTOR	0.15	ensemble_cross_model_joint_5	PhenoCompass	joint	0.05	5.0	0.9214910454931172	10	0
+3	PI3K/mTOR	0.15	ensemble_cross_model_joint_5	PhenoCompass	joint	0.1	5.0	0.9394695952075005	10	0
+3	PI3K/mTOR	0.15	ensemble_cross_model_joint_5	PhenoCompass	joint	0.2	5.0	0.946685876103104	10	0
+3	PI3K/mTOR	0.15	ensemble_cross_model_joint_5	PhenoCompass	joint		5.0	0.9699065921308782	10	0
+3	PI3K/mTOR	0.15	fingerprint	Morgan Fingerprints		0.01		0.4974874371859296	0	0
+3	PI3K/mTOR	0.15	fingerprint	Morgan Fingerprints		0.05		0.4871794871794871	0	0
+3	PI3K/mTOR	0.15	fingerprint	Morgan Fingerprints		0.1		0.4736842105263157	0	0
+3	PI3K/mTOR	0.15	fingerprint	Morgan Fingerprints		0.2		0.4647195283368954	0	0
+3	PI3K/mTOR	0.15	fingerprint	Morgan Fingerprints				0.5953278205425871	0	0
+3	PI3K/mTOR	0.15	gneprop	GNEprop Embeddings		0.01		0.4974874371859296	1	0
+3	PI3K/mTOR	0.15	gneprop	GNEprop Embeddings		0.05		0.5134163045434499	1	0
+3	PI3K/mTOR	0.15	gneprop	GNEprop Embeddings		0.1		0.507390755469159	1	0
+3	PI3K/mTOR	0.15	gneprop	GNEprop Embeddings		0.2		0.48904089744581963	1	0
+3	PI3K/mTOR	0.15	gneprop	GNEprop Embeddings				0.5602321801718133	1	0
+3	PI3K/mTOR	0.15	gneprop_knn_classifier_0	GNEprop Embeddings + kNN Classifier		0.1	0.0	0.4988515814987377	9	0
+3	PI3K/mTOR	0.15	gneprop_knn_classifier_1	GNEprop Embeddings + kNN Classifier		0.1	1.0	0.4988617788113736	9	0
+3	PI3K/mTOR	0.15	gneprop_knn_classifier_2	GNEprop Embeddings + kNN Classifier		0.1	2.0	0.4988435495351409	9	0
+3	PI3K/mTOR	0.15	gneprop_knn_classifier_3	GNEprop Embeddings + kNN Classifier		0.1	3.0	0.4988701827682719	9	0
+3	PI3K/mTOR	0.15	gneprop_knn_classifier_4	GNEprop Embeddings + kNN Classifier		0.1	4.0	0.4988443258920896	9	0
+3	PI3K/mTOR	0.15	gneprop_knn_classifier_5	GNEprop Embeddings + kNN Classifier		0.1	5.0	0.4988439468785711	9	0
+3	PI3K/mTOR	0.15	gneprop_knn_regression_0	GNEprop Embeddings + kNN Regression		0.1	0.0	0.4736842105263157	5	0
+3	PI3K/mTOR	0.15	gneprop_knn_regression_1	GNEprop Embeddings + kNN Regression		0.1	1.0	0.4736842105263157	5	0
+3	PI3K/mTOR	0.15	gneprop_knn_regression_2	GNEprop Embeddings + kNN Regression		0.1	2.0	0.4736842105263157	5	0
+3	PI3K/mTOR	0.15	gneprop_knn_regression_3	GNEprop Embeddings + kNN Regression		0.1	3.0	0.4736842105263157	5	0
+3	PI3K/mTOR	0.15	gneprop_knn_regression_4	GNEprop Embeddings + kNN Regression		0.1	4.0	0.4736842105263157	5	0
+3	PI3K/mTOR	0.15	gneprop_knn_regression_5	GNEprop Embeddings + kNN Regression		0.1	5.0	0.4736842105263157	5	0
+3	PI3K/mTOR	0.15	gneprop_linear_regression_0	GNEprop Embeddings + Linear Regression		0.1	0.0	0.6806986837170259	4	0
+3	PI3K/mTOR	0.15	gneprop_linear_regression_1	GNEprop Embeddings + Linear Regression		0.1	1.0	0.6038555068530751	4	0
+3	PI3K/mTOR	0.15	gneprop_linear_regression_2	GNEprop Embeddings + Linear Regression		0.1	2.0	0.6413596546061443	4	0
+3	PI3K/mTOR	0.15	gneprop_linear_regression_3	GNEprop Embeddings + Linear Regression		0.1	3.0	0.6230409210502815	4	0
+3	PI3K/mTOR	0.15	gneprop_linear_regression_4	GNEprop Embeddings + Linear Regression		0.1	4.0	0.6236914015316372	4	0
+3	PI3K/mTOR	0.15	gneprop_linear_regression_5	GNEprop Embeddings + Linear Regression		0.1	5.0	0.584179412292765	4	0
+3	PI3K/mTOR	0.15	gneprop_logistic_regression_0	GNEprop Embeddings + Logistic Regression		0.1	0.0	0.6768634808789759	8	0
+3	PI3K/mTOR	0.15	gneprop_logistic_regression_1	GNEprop Embeddings + Logistic Regression		0.1	1.0	0.6670085135863	8	0
+3	PI3K/mTOR	0.15	gneprop_logistic_regression_2	GNEprop Embeddings + Logistic Regression		0.1	2.0	0.6693810753419958	8	0
+3	PI3K/mTOR	0.15	gneprop_logistic_regression_3	GNEprop Embeddings + Logistic Regression		0.1	3.0	0.6641057914382856	8	0
+3	PI3K/mTOR	0.15	gneprop_logistic_regression_4	GNEprop Embeddings + Logistic Regression		0.1	4.0	0.7060881025051958	8	0
+3	PI3K/mTOR	0.15	gneprop_logistic_regression_5	GNEprop Embeddings + Logistic Regression		0.1	5.0	0.6875061687545648	8	0
+3	PI3K/mTOR	0.15	mf_knn_classifier_0	Morgan Fingerprints + kNN Classifier		0.1	0.0	0.4986461454867518	7	0
+3	PI3K/mTOR	0.15	mf_knn_classifier_1	Morgan Fingerprints + kNN Classifier		0.1	1.0	0.49863401170554067	7	0
+3	PI3K/mTOR	0.15	mf_knn_classifier_2	Morgan Fingerprints + kNN Classifier		0.1	2.0	0.4986413261071957	7	0
+3	PI3K/mTOR	0.15	mf_knn_classifier_3	Morgan Fingerprints + kNN Classifier		0.1	3.0	0.49864879488250335	7	0
+3	PI3K/mTOR	0.15	mf_knn_classifier_4	Morgan Fingerprints + kNN Classifier		0.1	4.0	0.4986298849459851	7	0
+3	PI3K/mTOR	0.15	mf_knn_classifier_5	Morgan Fingerprints + kNN Classifier		0.1	5.0	0.49862442845482785	7	0
+3	PI3K/mTOR	0.15	mf_knn_regression_0	Morgan Fingerprints + kNN Regression		0.1	0.0	0.495832506916055	3	0
+3	PI3K/mTOR	0.15	mf_knn_regression_1	Morgan Fingerprints + kNN Regression		0.1	1.0	0.5114101984435467	3	0
+3	PI3K/mTOR	0.15	mf_knn_regression_2	Morgan Fingerprints + kNN Regression		0.1	2.0	0.48765450086433054	3	0
+3	PI3K/mTOR	0.15	mf_knn_regression_3	Morgan Fingerprints + kNN Regression		0.1	3.0	0.5036157126756273	3	0
+3	PI3K/mTOR	0.15	mf_knn_regression_4	Morgan Fingerprints + kNN Regression		0.1	4.0	0.520624085261823	3	0
+3	PI3K/mTOR	0.15	mf_knn_regression_5	Morgan Fingerprints + kNN Regression		0.1	5.0	0.4961727871678624	3	0
+3	PI3K/mTOR	0.15	mf_linear_regression_0	Morgan Fingerprints + Linear Regression		0.1	0.0	0.6316137273941582	2	0
+3	PI3K/mTOR	0.15	mf_linear_regression_1	Morgan Fingerprints + Linear Regression		0.1	1.0	0.6490432202919829	2	0
+3	PI3K/mTOR	0.15	mf_linear_regression_2	Morgan Fingerprints + Linear Regression		0.1	2.0	0.6461517781523157	2	0
+3	PI3K/mTOR	0.15	mf_linear_regression_3	Morgan Fingerprints + Linear Regression		0.1	3.0	0.6598757883080834	2	0
+3	PI3K/mTOR	0.15	mf_linear_regression_4	Morgan Fingerprints + Linear Regression		0.1	4.0	0.627842444603409	2	0
+3	PI3K/mTOR	0.15	mf_linear_regression_5	Morgan Fingerprints + Linear Regression		0.1	5.0	0.6354752502516852	2	0
+3	PI3K/mTOR	0.15	mf_logistic_regression_0	Morgan Fingerprints + Logistic Regression		0.1	0.0	0.6143797546410183	6	0
+3	PI3K/mTOR	0.15	mf_logistic_regression_1	Morgan Fingerprints + Logistic Regression		0.1	1.0	0.609521831046155	6	0
+3	PI3K/mTOR	0.15	mf_logistic_regression_2	Morgan Fingerprints + Logistic Regression		0.1	2.0	0.6101835915358577	6	0
+3	PI3K/mTOR	0.15	mf_logistic_regression_3	Morgan Fingerprints + Logistic Regression		0.1	3.0	0.6057618282637528	6	0
+3	PI3K/mTOR	0.15	mf_logistic_regression_4	Morgan Fingerprints + Logistic Regression		0.1	4.0	0.6111273522342405	6	0
+3	PI3K/mTOR	0.15	mf_logistic_regression_5	Morgan Fingerprints + Logistic Regression		0.1	5.0	0.6130487136560481	6	0
+6	HSP90	0.15	ensemble_cross_model_joint_0	PhenoCompass	joint	0.01	0.0	0.537273084717761	10	5
+6	HSP90	0.15	ensemble_cross_model_joint_0	PhenoCompass	joint	0.05	0.0	0.605402568950282	10	5
+6	HSP90	0.15	ensemble_cross_model_joint_0	PhenoCompass	joint	0.1	0.0	0.7156927610412146	10	5
+6	HSP90	0.15	ensemble_cross_model_joint_0	PhenoCompass	joint	0.2	0.0	0.8089194039971844	10	5
+6	HSP90	0.15	ensemble_cross_model_joint_0	PhenoCompass	joint		0.0	0.9273143387840392	10	5
+6	HSP90	0.15	ensemble_cross_model_joint_1	PhenoCompass	joint	0.01	1.0	0.4974874371859296	10	5
+6	HSP90	0.15	ensemble_cross_model_joint_1	PhenoCompass	joint	0.05	1.0	0.5436851670889283	10	5
+6	HSP90	0.15	ensemble_cross_model_joint_1	PhenoCompass	joint	0.1	1.0	0.6145075947356201	10	5
+6	HSP90	0.15	ensemble_cross_model_joint_1	PhenoCompass	joint	0.2	1.0	0.687338072757158	10	5
+6	HSP90	0.15	ensemble_cross_model_joint_1	PhenoCompass	joint		1.0	0.8490576801883976	10	5
+6	HSP90	0.15	ensemble_cross_model_joint_2	PhenoCompass	joint	0.01	2.0	0.5580742946548057	10	5
+6	HSP90	0.15	ensemble_cross_model_joint_2	PhenoCompass	joint	0.05	2.0	0.647735903134092	10	5
+6	HSP90	0.15	ensemble_cross_model_joint_2	PhenoCompass	joint	0.1	2.0	0.7284923476557658	10	5
+6	HSP90	0.15	ensemble_cross_model_joint_2	PhenoCompass	joint	0.2	2.0	0.7895968541429419	10	5
+6	HSP90	0.15	ensemble_cross_model_joint_2	PhenoCompass	joint		2.0	0.9231603038243391	10	5
+6	HSP90	0.15	ensemble_cross_model_joint_3	PhenoCompass	joint	0.01	3.0	0.5571409070294255	10	5
+6	HSP90	0.15	ensemble_cross_model_joint_3	PhenoCompass	joint	0.05	3.0	0.5580548234367597	10	5
+6	HSP90	0.15	ensemble_cross_model_joint_3	PhenoCompass	joint	0.1	3.0	0.6050632734611081	10	5
+6	HSP90	0.15	ensemble_cross_model_joint_3	PhenoCompass	joint	0.2	3.0	0.7142156916942151	10	5
+6	HSP90	0.15	ensemble_cross_model_joint_3	PhenoCompass	joint		3.0	0.8971176490099174	10	5
+6	HSP90	0.15	ensemble_cross_model_joint_4	PhenoCompass	joint	0.01	4.0	0.5624745506030268	10	5
+6	HSP90	0.15	ensemble_cross_model_joint_4	PhenoCompass	joint	0.05	4.0	0.6627042951630832	10	5
+6	HSP90	0.15	ensemble_cross_model_joint_4	PhenoCompass	joint	0.1	4.0	0.7141320913148903	10	5
+6	HSP90	0.15	ensemble_cross_model_joint_4	PhenoCompass	joint	0.2	4.0	0.7574601700443354	10	5
+6	HSP90	0.15	ensemble_cross_model_joint_4	PhenoCompass	joint		4.0	0.8582015987263258	10	5
+6	HSP90	0.15	ensemble_cross_model_joint_5	PhenoCompass	joint	0.01	5.0	0.510004831947725	10	5
+6	HSP90	0.15	ensemble_cross_model_joint_5	PhenoCompass	joint	0.05	5.0	0.5746561309598226	10	5
+6	HSP90	0.15	ensemble_cross_model_joint_5	PhenoCompass	joint	0.1	5.0	0.6512863305233132	10	5
+6	HSP90	0.15	ensemble_cross_model_joint_5	PhenoCompass	joint	0.2	5.0	0.6980109898614658	10	5
+6	HSP90	0.15	ensemble_cross_model_joint_5	PhenoCompass	joint		5.0	0.8275233009386712	10	5
+6	HSP90	0.15	fingerprint	Morgan Fingerprints		0.01		0.4974874371859296	0	5
+6	HSP90	0.15	fingerprint	Morgan Fingerprints		0.05		0.4871794871794871	0	5
+6	HSP90	0.15	fingerprint	Morgan Fingerprints		0.1		0.5350845188196868	0	5
+6	HSP90	0.15	fingerprint	Morgan Fingerprints		0.2		0.5824773992872437	0	5
+6	HSP90	0.15	fingerprint	Morgan Fingerprints				0.6650429533317855	0	5
+6	HSP90	0.15	gneprop	GNEprop Embeddings		0.01		0.4974874371859296	1	5
+6	HSP90	0.15	gneprop	GNEprop Embeddings		0.05		0.4871794871794871	1	5
+6	HSP90	0.15	gneprop	GNEprop Embeddings		0.1		0.5059764572797212	1	5
+6	HSP90	0.15	gneprop	GNEprop Embeddings		0.2		0.5372206927814079	1	5
+6	HSP90	0.15	gneprop	GNEprop Embeddings				0.5784218382035888	1	5
+6	HSP90	0.15	gneprop_knn_classifier_0	GNEprop Embeddings + kNN Classifier		0.1	0.0	0.49928557197860907	9	5
+6	HSP90	0.15	gneprop_knn_classifier_1	GNEprop Embeddings + kNN Classifier		0.1	1.0	0.49929671612033505	9	5
+6	HSP90	0.15	gneprop_knn_classifier_2	GNEprop Embeddings + kNN Classifier		0.1	2.0	0.4992680404468837	9	5
+6	HSP90	0.15	gneprop_knn_classifier_3	GNEprop Embeddings + kNN Classifier		0.1	3.0	0.4992778159964134	9	5
+6	HSP90	0.15	gneprop_knn_classifier_4	GNEprop Embeddings + kNN Classifier		0.1	4.0	0.49928952156831397	9	5
+6	HSP90	0.15	gneprop_knn_classifier_5	GNEprop Embeddings + kNN Classifier		0.1	5.0	0.4992674101610867	9	5
+6	HSP90	0.15	gneprop_knn_regression_0	GNEprop Embeddings + kNN Regression		0.1	0.0	0.5102429861512383	5	5
+6	HSP90	0.15	gneprop_knn_regression_1	GNEprop Embeddings + kNN Regression		0.1	1.0	0.49613760428468423	5	5
+6	HSP90	0.15	gneprop_knn_regression_2	GNEprop Embeddings + kNN Regression		0.1	2.0	0.5558585341924581	5	5
+6	HSP90	0.15	gneprop_knn_regression_3	GNEprop Embeddings + kNN Regression		0.1	3.0	0.504373890379536	5	5
+6	HSP90	0.15	gneprop_knn_regression_4	GNEprop Embeddings + kNN Regression		0.1	4.0	0.49851177747014386	5	5
+6	HSP90	0.15	gneprop_knn_regression_5	GNEprop Embeddings + kNN Regression		0.1	5.0	0.624105538980956	5	5
+6	HSP90	0.15	gneprop_linear_regression_0	GNEprop Embeddings + Linear Regression		0.1	0.0	0.47368421052631565	4	5
+6	HSP90	0.15	gneprop_linear_regression_1	GNEprop Embeddings + Linear Regression		0.1	1.0	0.47368421052631565	4	5
+6	HSP90	0.15	gneprop_linear_regression_2	GNEprop Embeddings + Linear Regression		0.1	2.0	0.47368421052631565	4	5
+6	HSP90	0.15	gneprop_linear_regression_3	GNEprop Embeddings + Linear Regression		0.1	3.0	0.47368421052631565	4	5
+6	HSP90	0.15	gneprop_linear_regression_4	GNEprop Embeddings + Linear Regression		0.1	4.0	0.47368421052631565	4	5
+6	HSP90	0.15	gneprop_linear_regression_5	GNEprop Embeddings + Linear Regression		0.1	5.0	0.47368421052631565	4	5
+6	HSP90	0.15	gneprop_logistic_regression_0	GNEprop Embeddings + Logistic Regression		0.1	0.0	0.5040212558328722	8	5
+6	HSP90	0.15	gneprop_logistic_regression_1	GNEprop Embeddings + Logistic Regression		0.1	1.0	0.516045744730994	8	5
+6	HSP90	0.15	gneprop_logistic_regression_2	GNEprop Embeddings + Logistic Regression		0.1	2.0	0.5059555086927906	8	5
+6	HSP90	0.15	gneprop_logistic_regression_3	GNEprop Embeddings + Logistic Regression		0.1	3.0	0.506164994562096	8	5
+6	HSP90	0.15	gneprop_logistic_regression_4	GNEprop Embeddings + Logistic Regression		0.1	4.0	0.5053410168094953	8	5
+6	HSP90	0.15	gneprop_logistic_regression_5	GNEprop Embeddings + Logistic Regression		0.1	5.0	0.5011931965972511	8	5
+6	HSP90	0.15	mf_knn_classifier_0	Morgan Fingerprints + kNN Classifier		0.1	0.0	0.49924062314874595	7	5
+6	HSP90	0.15	mf_knn_classifier_1	Morgan Fingerprints + kNN Classifier		0.1	1.0	0.49922770789855214	7	5
+6	HSP90	0.15	mf_knn_classifier_2	Morgan Fingerprints + kNN Classifier		0.1	2.0	0.4992185117006838	7	5
+6	HSP90	0.15	mf_knn_classifier_3	Morgan Fingerprints + kNN Classifier		0.1	3.0	0.4992302383161776	7	5
+6	HSP90	0.15	mf_knn_classifier_4	Morgan Fingerprints + kNN Classifier		0.1	4.0	0.49923544656696917	7	5
+6	HSP90	0.15	mf_knn_classifier_5	Morgan Fingerprints + kNN Classifier		0.1	5.0	0.499222484095858	7	5
+6	HSP90	0.15	mf_knn_regression_0	Morgan Fingerprints + kNN Regression		0.1	0.0	0.5514313994878071	3	5
+6	HSP90	0.15	mf_knn_regression_1	Morgan Fingerprints + kNN Regression		0.1	1.0	0.49113787487059873	3	5
+6	HSP90	0.15	mf_knn_regression_2	Morgan Fingerprints + kNN Regression		0.1	2.0	0.47368421052631565	3	5
+6	HSP90	0.15	mf_knn_regression_3	Morgan Fingerprints + kNN Regression		0.1	3.0	0.47368421052631565	3	5
+6	HSP90	0.15	mf_knn_regression_4	Morgan Fingerprints + kNN Regression		0.1	4.0	0.5158153102747581	3	5
+6	HSP90	0.15	mf_knn_regression_5	Morgan Fingerprints + kNN Regression		0.1	5.0	0.5213317714997966	3	5
+6	HSP90	0.15	mf_linear_regression_0	Morgan Fingerprints + Linear Regression		0.1	0.0	0.47368421052631565	2	5
+6	HSP90	0.15	mf_linear_regression_1	Morgan Fingerprints + Linear Regression		0.1	1.0	0.47368421052631565	2	5
+6	HSP90	0.15	mf_linear_regression_2	Morgan Fingerprints + Linear Regression		0.1	2.0	0.47368421052631565	2	5
+6	HSP90	0.15	mf_linear_regression_3	Morgan Fingerprints + Linear Regression		0.1	3.0	0.47368421052631565	2	5
+6	HSP90	0.15	mf_linear_regression_4	Morgan Fingerprints + Linear Regression		0.1	4.0	0.47368421052631565	2	5
+6	HSP90	0.15	mf_linear_regression_5	Morgan Fingerprints + Linear Regression		0.1	5.0	0.47368421052631565	2	5
+6	HSP90	0.15	mf_logistic_regression_0	Morgan Fingerprints + Logistic Regression		0.1	0.0	0.5612388296024482	6	5
+6	HSP90	0.15	mf_logistic_regression_1	Morgan Fingerprints + Logistic Regression		0.1	1.0	0.5668041708636579	6	5
+6	HSP90	0.15	mf_logistic_regression_2	Morgan Fingerprints + Logistic Regression		0.1	2.0	0.5691434297375666	6	5
+6	HSP90	0.15	mf_logistic_regression_3	Morgan Fingerprints + Logistic Regression		0.1	3.0	0.568047120354869	6	5
+6	HSP90	0.15	mf_logistic_regression_4	Morgan Fingerprints + Logistic Regression		0.1	4.0	0.560435800436778	6	5
+6	HSP90	0.15	mf_logistic_regression_5	Morgan Fingerprints + Logistic Regression		0.1	5.0	0.5652400097061785	6	5
+7	JAK/ROCK	0.15	ensemble_cross_model_joint_0	PhenoCompass	joint	0.01	0.0	0.5525339723927274	10	1
+7	JAK/ROCK	0.15	ensemble_cross_model_joint_0	PhenoCompass	joint	0.05	0.0	0.69200050008037	10	1
+7	JAK/ROCK	0.15	ensemble_cross_model_joint_0	PhenoCompass	joint	0.1	0.0	0.7422873412926325	10	1
+7	JAK/ROCK	0.15	ensemble_cross_model_joint_0	PhenoCompass	joint	0.2	0.0	0.7975130923819107	10	1
+7	JAK/ROCK	0.15	ensemble_cross_model_joint_0	PhenoCompass	joint		0.0	0.9271047132574879	10	1
+7	JAK/ROCK	0.15	ensemble_cross_model_joint_1	PhenoCompass	joint	0.01	1.0	0.5814689887795139	10	1
+7	JAK/ROCK	0.15	ensemble_cross_model_joint_1	PhenoCompass	joint	0.05	1.0	0.7150089597732968	10	1
+7	JAK/ROCK	0.15	ensemble_cross_model_joint_1	PhenoCompass	joint	0.1	1.0	0.7828699913237936	10	1
+7	JAK/ROCK	0.15	ensemble_cross_model_joint_1	PhenoCompass	joint	0.2	1.0	0.8634548409565823	10	1
+7	JAK/ROCK	0.15	ensemble_cross_model_joint_1	PhenoCompass	joint		1.0	0.9508437427443697	10	1
+7	JAK/ROCK	0.15	ensemble_cross_model_joint_2	PhenoCompass	joint	0.01	2.0	0.5866959594816431	10	1
+7	JAK/ROCK	0.15	ensemble_cross_model_joint_2	PhenoCompass	joint	0.05	2.0	0.6760693682913325	10	1
+7	JAK/ROCK	0.15	ensemble_cross_model_joint_2	PhenoCompass	joint	0.1	2.0	0.7802255813669301	10	1
+7	JAK/ROCK	0.15	ensemble_cross_model_joint_2	PhenoCompass	joint	0.2	2.0	0.8652529473982922	10	1
+7	JAK/ROCK	0.15	ensemble_cross_model_joint_2	PhenoCompass	joint		2.0	0.9514910610633851	10	1
+7	JAK/ROCK	0.15	ensemble_cross_model_joint_3	PhenoCompass	joint	0.01	3.0	0.55006049518547	10	1
+7	JAK/ROCK	0.15	ensemble_cross_model_joint_3	PhenoCompass	joint	0.05	3.0	0.6459716740190388	10	1
+7	JAK/ROCK	0.15	ensemble_cross_model_joint_3	PhenoCompass	joint	0.1	3.0	0.776214974399081	10	1
+7	JAK/ROCK	0.15	ensemble_cross_model_joint_3	PhenoCompass	joint	0.2	3.0	0.854113458710626	10	1
+7	JAK/ROCK	0.15	ensemble_cross_model_joint_3	PhenoCompass	joint		3.0	0.943948920362201	10	1
+7	JAK/ROCK	0.15	ensemble_cross_model_joint_4	PhenoCompass	joint	0.01	4.0	0.5846425067058066	10	1
+7	JAK/ROCK	0.15	ensemble_cross_model_joint_4	PhenoCompass	joint	0.05	4.0	0.6526370309514029	10	1
+7	JAK/ROCK	0.15	ensemble_cross_model_joint_4	PhenoCompass	joint	0.1	4.0	0.7625969963217772	10	1
+7	JAK/ROCK	0.15	ensemble_cross_model_joint_4	PhenoCompass	joint	0.2	4.0	0.8728555581353353	10	1
+7	JAK/ROCK	0.15	ensemble_cross_model_joint_4	PhenoCompass	joint		4.0	0.9542280009287207	10	1
+7	JAK/ROCK	0.15	ensemble_cross_model_joint_5	PhenoCompass	joint	0.01	5.0	0.5597677264894241	10	1
+7	JAK/ROCK	0.15	ensemble_cross_model_joint_5	PhenoCompass	joint	0.05	5.0	0.6396206533192834	10	1
+7	JAK/ROCK	0.15	ensemble_cross_model_joint_5	PhenoCompass	joint	0.1	5.0	0.6834895457822638	10	1
+7	JAK/ROCK	0.15	ensemble_cross_model_joint_5	PhenoCompass	joint	0.2	5.0	0.7518071356706137	10	1
+7	JAK/ROCK	0.15	ensemble_cross_model_joint_5	PhenoCompass	joint		5.0	0.9026552124448571	10	1
+7	JAK/ROCK	0.15	fingerprint	Morgan Fingerprints		0.01		0.4974874371859296	0	1
+7	JAK/ROCK	0.15	fingerprint	Morgan Fingerprints		0.05		0.4871794871794871	0	1
+7	JAK/ROCK	0.15	fingerprint	Morgan Fingerprints		0.1		0.47368421052631576	0	1
+7	JAK/ROCK	0.15	fingerprint	Morgan Fingerprints		0.2		0.4444444444444445	0	1
+7	JAK/ROCK	0.15	fingerprint	Morgan Fingerprints				0.4537014162990481	0	1
+7	JAK/ROCK	0.15	gneprop	GNEprop Embeddings		0.01		0.4974874371859296	1	1
+7	JAK/ROCK	0.15	gneprop	GNEprop Embeddings		0.05		0.4871794871794871	1	1
+7	JAK/ROCK	0.15	gneprop	GNEprop Embeddings		0.1		0.47467403125878305	1	1
+7	JAK/ROCK	0.15	gneprop	GNEprop Embeddings		0.2		0.5049660758971184	1	1
+7	JAK/ROCK	0.15	gneprop	GNEprop Embeddings				0.5706436034362665	1	1
+7	JAK/ROCK	0.15	gneprop_knn_classifier_0	GNEprop Embeddings + kNN Classifier		0.1	0.0	0.4984979244444608	9	1
+7	JAK/ROCK	0.15	gneprop_knn_classifier_1	GNEprop Embeddings + kNN Classifier		0.1	1.0	0.49852351036311215	9	1
+7	JAK/ROCK	0.15	gneprop_knn_classifier_2	GNEprop Embeddings + kNN Classifier		0.1	2.0	0.4985293856873604	9	1
+7	JAK/ROCK	0.15	gneprop_knn_classifier_3	GNEprop Embeddings + kNN Classifier		0.1	3.0	0.4984974304066923	9	1
+7	JAK/ROCK	0.15	gneprop_knn_classifier_4	GNEprop Embeddings + kNN Classifier		0.1	4.0	0.498513818711389	9	1
+7	JAK/ROCK	0.15	gneprop_knn_classifier_5	GNEprop Embeddings + kNN Classifier		0.1	5.0	0.4985066994742177	9	1
+7	JAK/ROCK	0.15	gneprop_knn_regression_0	GNEprop Embeddings + kNN Regression		0.1	0.0	0.5769261789253723	5	1
+7	JAK/ROCK	0.15	gneprop_knn_regression_1	GNEprop Embeddings + kNN Regression		0.1	1.0	0.5660479268754658	5	1
+7	JAK/ROCK	0.15	gneprop_knn_regression_2	GNEprop Embeddings + kNN Regression		0.1	2.0	0.5791111165422261	5	1
+7	JAK/ROCK	0.15	gneprop_knn_regression_3	GNEprop Embeddings + kNN Regression		0.1	3.0	0.5725978517224102	5	1
+7	JAK/ROCK	0.15	gneprop_knn_regression_4	GNEprop Embeddings + kNN Regression		0.1	4.0	0.5623281561228355	5	1
+7	JAK/ROCK	0.15	gneprop_knn_regression_5	GNEprop Embeddings + kNN Regression		0.1	5.0	0.5355125682793005	5	1
+7	JAK/ROCK	0.15	gneprop_linear_regression_0	GNEprop Embeddings + Linear Regression		0.1	0.0	0.5670133075898476	4	1
+7	JAK/ROCK	0.15	gneprop_linear_regression_1	GNEprop Embeddings + Linear Regression		0.1	1.0	0.543220949983503	4	1
+7	JAK/ROCK	0.15	gneprop_linear_regression_2	GNEprop Embeddings + Linear Regression		0.1	2.0	0.5294783278139625	4	1
+7	JAK/ROCK	0.15	gneprop_linear_regression_3	GNEprop Embeddings + Linear Regression		0.1	3.0	0.5558711033446164	4	1
+7	JAK/ROCK	0.15	gneprop_linear_regression_4	GNEprop Embeddings + Linear Regression		0.1	4.0	0.5128151234831912	4	1
+7	JAK/ROCK	0.15	gneprop_linear_regression_5	GNEprop Embeddings + Linear Regression		0.1	5.0	0.5503720992753534	4	1
+7	JAK/ROCK	0.15	gneprop_logistic_regression_0	GNEprop Embeddings + Logistic Regression		0.1	0.0	0.48866349761098815	8	1
+7	JAK/ROCK	0.15	gneprop_logistic_regression_1	GNEprop Embeddings + Logistic Regression		0.1	1.0	0.48872704165801073	8	1
+7	JAK/ROCK	0.15	gneprop_logistic_regression_2	GNEprop Embeddings + Logistic Regression		0.1	2.0	0.486942920337761	8	1
+7	JAK/ROCK	0.15	gneprop_logistic_regression_3	GNEprop Embeddings + Logistic Regression		0.1	3.0	0.48891278579546144	8	1
+7	JAK/ROCK	0.15	gneprop_logistic_regression_4	GNEprop Embeddings + Logistic Regression		0.1	4.0	0.487940073075654	8	1
+7	JAK/ROCK	0.15	gneprop_logistic_regression_5	GNEprop Embeddings + Logistic Regression		0.1	5.0	0.4876956728947979	8	1
+7	JAK/ROCK	0.15	mf_knn_classifier_0	Morgan Fingerprints + kNN Classifier		0.1	0.0	0.49864646401133517	7	1
+7	JAK/ROCK	0.15	mf_knn_classifier_1	Morgan Fingerprints + kNN Classifier		0.1	1.0	0.49864561004028135	7	1
+7	JAK/ROCK	0.15	mf_knn_classifier_2	Morgan Fingerprints + kNN Classifier		0.1	2.0	0.49864871604919436	7	1
+7	JAK/ROCK	0.15	mf_knn_classifier_3	Morgan Fingerprints + kNN Classifier		0.1	3.0	0.5472144917135784	7	1
+7	JAK/ROCK	0.15	mf_knn_classifier_4	Morgan Fingerprints + kNN Classifier		0.1	4.0	0.49864120442831555	7	1
+7	JAK/ROCK	0.15	mf_knn_classifier_5	Morgan Fingerprints + kNN Classifier		0.1	5.0	0.4986316778652662	7	1
+7	JAK/ROCK	0.15	mf_knn_regression_0	Morgan Fingerprints + kNN Regression		0.1	0.0	0.5121381349822198	3	1
+7	JAK/ROCK	0.15	mf_knn_regression_1	Morgan Fingerprints + kNN Regression		0.1	1.0	0.49984236188334774	3	1
+7	JAK/ROCK	0.15	mf_knn_regression_2	Morgan Fingerprints + kNN Regression		0.1	2.0	0.49229528429851027	3	1
+7	JAK/ROCK	0.15	mf_knn_regression_3	Morgan Fingerprints + kNN Regression		0.1	3.0	0.4988183251255605	3	1
+7	JAK/ROCK	0.15	mf_knn_regression_4	Morgan Fingerprints + kNN Regression		0.1	4.0	0.5052998179218652	3	1
+7	JAK/ROCK	0.15	mf_knn_regression_5	Morgan Fingerprints + kNN Regression		0.1	5.0	0.5014578470788068	3	1
+7	JAK/ROCK	0.15	mf_linear_regression_0	Morgan Fingerprints + Linear Regression		0.1	0.0	0.6132122737770825	2	1
+7	JAK/ROCK	0.15	mf_linear_regression_1	Morgan Fingerprints + Linear Regression		0.1	1.0	0.6157198196326665	2	1
+7	JAK/ROCK	0.15	mf_linear_regression_2	Morgan Fingerprints + Linear Regression		0.1	2.0	0.6033531704813461	2	1
+7	JAK/ROCK	0.15	mf_linear_regression_3	Morgan Fingerprints + Linear Regression		0.1	3.0	0.6261459313479891	2	1
+7	JAK/ROCK	0.15	mf_linear_regression_4	Morgan Fingerprints + Linear Regression		0.1	4.0	0.5880537191597521	2	1
+7	JAK/ROCK	0.15	mf_linear_regression_5	Morgan Fingerprints + Linear Regression		0.1	5.0	0.6007723045715053	2	1
+7	JAK/ROCK	0.15	mf_logistic_regression_0	Morgan Fingerprints + Logistic Regression		0.1	0.0	0.47368421052631576	6	1
+7	JAK/ROCK	0.15	mf_logistic_regression_1	Morgan Fingerprints + Logistic Regression		0.1	1.0	0.47368421052631576	6	1
+7	JAK/ROCK	0.15	mf_logistic_regression_2	Morgan Fingerprints + Logistic Regression		0.1	2.0	0.47368421052631576	6	1
+7	JAK/ROCK	0.15	mf_logistic_regression_3	Morgan Fingerprints + Logistic Regression		0.1	3.0	0.47368421052631576	6	1
+7	JAK/ROCK	0.15	mf_logistic_regression_4	Morgan Fingerprints + Logistic Regression		0.1	4.0	0.47368421052631576	6	1
+7	JAK/ROCK	0.15	mf_logistic_regression_5	Morgan Fingerprints + Logistic Regression		0.1	5.0	0.47368421052631576	6	1
+8	HDAC	0.15	ensemble_cross_model_joint_0	PhenoCompass	joint	0.01	0.0	0.5103283801792117	10	4
+8	HDAC	0.15	ensemble_cross_model_joint_0	PhenoCompass	joint	0.05	0.0	0.5731849061176149	10	4
+8	HDAC	0.15	ensemble_cross_model_joint_0	PhenoCompass	joint	0.1	0.0	0.625120313177267	10	4
+8	HDAC	0.15	ensemble_cross_model_joint_0	PhenoCompass	joint	0.2	0.0	0.7021447074302207	10	4
+8	HDAC	0.15	ensemble_cross_model_joint_0	PhenoCompass	joint		0.0	0.8388593124735383	10	4
+8	HDAC	0.15	ensemble_cross_model_joint_1	PhenoCompass	joint	0.01	1.0	0.49882575032526155	10	4
+8	HDAC	0.15	ensemble_cross_model_joint_1	PhenoCompass	joint	0.05	1.0	0.530264842984219	10	4
+8	HDAC	0.15	ensemble_cross_model_joint_1	PhenoCompass	joint	0.1	1.0	0.5556934100366527	10	4
+8	HDAC	0.15	ensemble_cross_model_joint_1	PhenoCompass	joint	0.2	1.0	0.5897558466154049	10	4
+8	HDAC	0.15	ensemble_cross_model_joint_1	PhenoCompass	joint		1.0	0.7182119395238941	10	4
+8	HDAC	0.15	ensemble_cross_model_joint_2	PhenoCompass	joint	0.01	2.0	0.53162471695535	10	4
+8	HDAC	0.15	ensemble_cross_model_joint_2	PhenoCompass	joint	0.05	2.0	0.5806342826105455	10	4
+8	HDAC	0.15	ensemble_cross_model_joint_2	PhenoCompass	joint	0.1	2.0	0.611617922009027	10	4
+8	HDAC	0.15	ensemble_cross_model_joint_2	PhenoCompass	joint	0.2	2.0	0.6954160350000228	10	4
+8	HDAC	0.15	ensemble_cross_model_joint_2	PhenoCompass	joint		2.0	0.8151660088228466	10	4
+8	HDAC	0.15	ensemble_cross_model_joint_3	PhenoCompass	joint	0.01	3.0	0.5628794761169784	10	4
+8	HDAC	0.15	ensemble_cross_model_joint_3	PhenoCompass	joint	0.05	3.0	0.6175954048637368	10	4
+8	HDAC	0.15	ensemble_cross_model_joint_3	PhenoCompass	joint	0.1	3.0	0.6433626302059934	10	4
+8	HDAC	0.15	ensemble_cross_model_joint_3	PhenoCompass	joint	0.2	3.0	0.6966088037258089	10	4
+8	HDAC	0.15	ensemble_cross_model_joint_3	PhenoCompass	joint		3.0	0.8417121239022658	10	4
+8	HDAC	0.15	ensemble_cross_model_joint_4	PhenoCompass	joint	0.01	4.0	0.4974874371859296	10	4
+8	HDAC	0.15	ensemble_cross_model_joint_4	PhenoCompass	joint	0.05	4.0	0.5261227207033623	10	4
+8	HDAC	0.15	ensemble_cross_model_joint_4	PhenoCompass	joint	0.1	4.0	0.5441649097408566	10	4
+8	HDAC	0.15	ensemble_cross_model_joint_4	PhenoCompass	joint	0.2	4.0	0.5980354218926174	10	4
+8	HDAC	0.15	ensemble_cross_model_joint_4	PhenoCompass	joint		4.0	0.7486581351834907	10	4
+8	HDAC	0.15	ensemble_cross_model_joint_5	PhenoCompass	joint	0.01	5.0	0.4974874371859296	10	4
+8	HDAC	0.15	ensemble_cross_model_joint_5	PhenoCompass	joint	0.05	5.0	0.5522641769107849	10	4
+8	HDAC	0.15	ensemble_cross_model_joint_5	PhenoCompass	joint	0.1	5.0	0.6355734526772961	10	4
+8	HDAC	0.15	ensemble_cross_model_joint_5	PhenoCompass	joint	0.2	5.0	0.729010836592202	10	4
+8	HDAC	0.15	ensemble_cross_model_joint_5	PhenoCompass	joint		5.0	0.8190633578715908	10	4
+8	HDAC	0.15	fingerprint	Morgan Fingerprints		0.01		0.4974874371859296	0	4
+8	HDAC	0.15	fingerprint	Morgan Fingerprints		0.05		0.4871794871794871	0	4
+8	HDAC	0.15	fingerprint	Morgan Fingerprints		0.1		0.47368421052631565	0	4
+8	HDAC	0.15	fingerprint	Morgan Fingerprints		0.2		0.4458177977483076	0	4
+8	HDAC	0.15	fingerprint	Morgan Fingerprints				0.3026386593643726	0	4
+8	HDAC	0.15	gneprop	GNEprop Embeddings		0.01		0.4974874371859296	1	4
+8	HDAC	0.15	gneprop	GNEprop Embeddings		0.05		0.4871794871794871	1	4
+8	HDAC	0.15	gneprop	GNEprop Embeddings		0.1		0.47368421052631565	1	4
+8	HDAC	0.15	gneprop	GNEprop Embeddings		0.2		0.45863930279177684	1	4
+8	HDAC	0.15	gneprop	GNEprop Embeddings				0.44566246466081205	1	4
+8	HDAC	0.15	gneprop_knn_classifier_0	GNEprop Embeddings + kNN Classifier		0.1	0.0	0.498529144560062	9	4
+8	HDAC	0.15	gneprop_knn_classifier_1	GNEprop Embeddings + kNN Classifier		0.1	1.0	0.49851732037458496	9	4
+8	HDAC	0.15	gneprop_knn_classifier_2	GNEprop Embeddings + kNN Classifier		0.1	2.0	0.49852643210699565	9	4
+8	HDAC	0.15	gneprop_knn_classifier_3	GNEprop Embeddings + kNN Classifier		0.1	3.0	0.49850737945681955	9	4
+8	HDAC	0.15	gneprop_knn_classifier_4	GNEprop Embeddings + kNN Classifier		0.1	4.0	0.49853517129607994	9	4
+8	HDAC	0.15	gneprop_knn_classifier_5	GNEprop Embeddings + kNN Classifier		0.1	5.0	0.49852126181147627	9	4
+8	HDAC	0.15	gneprop_knn_regression_0	GNEprop Embeddings + kNN Regression		0.1	0.0	0.5022301516503122	5	4
+8	HDAC	0.15	gneprop_knn_regression_1	GNEprop Embeddings + kNN Regression		0.1	1.0	0.502879968601765	5	4
+8	HDAC	0.15	gneprop_knn_regression_2	GNEprop Embeddings + kNN Regression		0.1	2.0	0.5218152320256246	5	4
+8	HDAC	0.15	gneprop_knn_regression_3	GNEprop Embeddings + kNN Regression		0.1	3.0	0.5056833824409971	5	4
+8	HDAC	0.15	gneprop_knn_regression_4	GNEprop Embeddings + kNN Regression		0.1	4.0	0.5051471396912363	5	4
+8	HDAC	0.15	gneprop_knn_regression_5	GNEprop Embeddings + kNN Regression		0.1	5.0	0.49683609589400507	5	4
+8	HDAC	0.15	gneprop_linear_regression_0	GNEprop Embeddings + Linear Regression		0.1	0.0	0.5282487073746316	4	4
+8	HDAC	0.15	gneprop_linear_regression_1	GNEprop Embeddings + Linear Regression		0.1	1.0	0.6656763667181584	4	4
+8	HDAC	0.15	gneprop_linear_regression_2	GNEprop Embeddings + Linear Regression		0.1	2.0	0.5549055788654224	4	4
+8	HDAC	0.15	gneprop_linear_regression_3	GNEprop Embeddings + Linear Regression		0.1	3.0	0.6432246159862158	4	4
+8	HDAC	0.15	gneprop_linear_regression_4	GNEprop Embeddings + Linear Regression		0.1	4.0	0.6790134283522898	4	4
+8	HDAC	0.15	gneprop_linear_regression_5	GNEprop Embeddings + Linear Regression		0.1	5.0	0.6277454586492864	4	4
+8	HDAC	0.15	gneprop_logistic_regression_0	GNEprop Embeddings + Logistic Regression		0.1	0.0	0.4815438328130245	8	4
+8	HDAC	0.15	gneprop_logistic_regression_1	GNEprop Embeddings + Logistic Regression		0.1	1.0	0.4822109015419494	8	4
+8	HDAC	0.15	gneprop_logistic_regression_2	GNEprop Embeddings + Logistic Regression		0.1	2.0	0.4835709166660077	8	4
+8	HDAC	0.15	gneprop_logistic_regression_3	GNEprop Embeddings + Logistic Regression		0.1	3.0	0.48207576261841717	8	4
+8	HDAC	0.15	gneprop_logistic_regression_4	GNEprop Embeddings + Logistic Regression		0.1	4.0	0.4832316317090545	8	4
+8	HDAC	0.15	gneprop_logistic_regression_5	GNEprop Embeddings + Logistic Regression		0.1	5.0	0.4831051186742583	8	4
+8	HDAC	0.15	mf_knn_classifier_0	Morgan Fingerprints + kNN Classifier		0.1	0.0	0.49888067353401744	7	4
+8	HDAC	0.15	mf_knn_classifier_1	Morgan Fingerprints + kNN Classifier		0.1	1.0	0.498898625926117	7	4
+8	HDAC	0.15	mf_knn_classifier_2	Morgan Fingerprints + kNN Classifier		0.1	2.0	0.49888116245107017	7	4
+8	HDAC	0.15	mf_knn_classifier_3	Morgan Fingerprints + kNN Classifier		0.1	3.0	0.4988924632518583	7	4
+8	HDAC	0.15	mf_knn_classifier_4	Morgan Fingerprints + kNN Classifier		0.1	4.0	0.4988962315891926	7	4
+8	HDAC	0.15	mf_knn_classifier_5	Morgan Fingerprints + kNN Classifier		0.1	5.0	0.4989016923006865	7	4
+8	HDAC	0.15	mf_knn_regression_0	Morgan Fingerprints + kNN Regression		0.1	0.0	0.5209023254677208	3	4
+8	HDAC	0.15	mf_knn_regression_1	Morgan Fingerprints + kNN Regression		0.1	1.0	0.5113822195993131	3	4
+8	HDAC	0.15	mf_knn_regression_2	Morgan Fingerprints + kNN Regression		0.1	2.0	0.5191138912031029	3	4
+8	HDAC	0.15	mf_knn_regression_3	Morgan Fingerprints + kNN Regression		0.1	3.0	0.4956126573416016	3	4
+8	HDAC	0.15	mf_knn_regression_4	Morgan Fingerprints + kNN Regression		0.1	4.0	0.5143351488433041	3	4
+8	HDAC	0.15	mf_knn_regression_5	Morgan Fingerprints + kNN Regression		0.1	5.0	0.5268196851406846	3	4
+8	HDAC	0.15	mf_linear_regression_0	Morgan Fingerprints + Linear Regression		0.1	0.0	0.49834850171906764	2	4
+8	HDAC	0.15	mf_linear_regression_1	Morgan Fingerprints + Linear Regression		0.1	1.0	0.5144372218600147	2	4
+8	HDAC	0.15	mf_linear_regression_2	Morgan Fingerprints + Linear Regression		0.1	2.0	0.5138089696304022	2	4
+8	HDAC	0.15	mf_linear_regression_3	Morgan Fingerprints + Linear Regression		0.1	3.0	0.504595082812126	2	4
+8	HDAC	0.15	mf_linear_regression_4	Morgan Fingerprints + Linear Regression		0.1	4.0	0.4980394073726908	2	4
+8	HDAC	0.15	mf_linear_regression_5	Morgan Fingerprints + Linear Regression		0.1	5.0	0.5080670030284057	2	4
+8	HDAC	0.15	mf_logistic_regression_0	Morgan Fingerprints + Logistic Regression		0.1	0.0	0.5088519589033907	6	4
+8	HDAC	0.15	mf_logistic_regression_1	Morgan Fingerprints + Logistic Regression		0.1	1.0	0.504776226475584	6	4
+8	HDAC	0.15	mf_logistic_regression_2	Morgan Fingerprints + Logistic Regression		0.1	2.0	0.5114799796716555	6	4
+8	HDAC	0.15	mf_logistic_regression_3	Morgan Fingerprints + Logistic Regression		0.1	3.0	0.5110975652710217	6	4
+8	HDAC	0.15	mf_logistic_regression_4	Morgan Fingerprints + Logistic Regression		0.1	4.0	0.5091222367504551	6	4
+8	HDAC	0.15	mf_logistic_regression_5	Morgan Fingerprints + Logistic Regression		0.1	5.0	0.510165969287523	6	4
+10	MAPK	0.15	ensemble_cross_model_joint_0	PhenoCompass	joint	0.01	0.0	0.5440919998698441	10	3
+10	MAPK	0.15	ensemble_cross_model_joint_0	PhenoCompass	joint	0.05	0.0	0.5549205328634165	10	3
+10	MAPK	0.15	ensemble_cross_model_joint_0	PhenoCompass	joint	0.1	0.0	0.5781897278603986	10	3
+10	MAPK	0.15	ensemble_cross_model_joint_0	PhenoCompass	joint	0.2	0.0	0.6712988044154362	10	3
+10	MAPK	0.15	ensemble_cross_model_joint_0	PhenoCompass	joint		0.0	0.8297366044939762	10	3
+10	MAPK	0.15	ensemble_cross_model_joint_1	PhenoCompass	joint	0.01	1.0	0.5305578793018312	10	3
+10	MAPK	0.15	ensemble_cross_model_joint_1	PhenoCompass	joint	0.05	1.0	0.5395132947953937	10	3
+10	MAPK	0.15	ensemble_cross_model_joint_1	PhenoCompass	joint	0.1	1.0	0.5297794831479286	10	3
+10	MAPK	0.15	ensemble_cross_model_joint_1	PhenoCompass	joint	0.2	1.0	0.5956682632636506	10	3
+10	MAPK	0.15	ensemble_cross_model_joint_1	PhenoCompass	joint		1.0	0.7546113561901814	10	3
+10	MAPK	0.15	ensemble_cross_model_joint_2	PhenoCompass	joint	0.01	2.0	0.5521295044217294	10	3
+10	MAPK	0.15	ensemble_cross_model_joint_2	PhenoCompass	joint	0.05	2.0	0.5439161187942241	10	3
+10	MAPK	0.15	ensemble_cross_model_joint_2	PhenoCompass	joint	0.1	2.0	0.5717592875463171	10	3
+10	MAPK	0.15	ensemble_cross_model_joint_2	PhenoCompass	joint	0.2	2.0	0.6421214961575615	10	3
+10	MAPK	0.15	ensemble_cross_model_joint_2	PhenoCompass	joint		2.0	0.8319387044346412	10	3
+10	MAPK	0.15	ensemble_cross_model_joint_3	PhenoCompass	joint	0.01	3.0	0.5291059429956841	10	3
+10	MAPK	0.15	ensemble_cross_model_joint_3	PhenoCompass	joint	0.05	3.0	0.5434583732703072	10	3
+10	MAPK	0.15	ensemble_cross_model_joint_3	PhenoCompass	joint	0.1	3.0	0.6010031269645362	10	3
+10	MAPK	0.15	ensemble_cross_model_joint_3	PhenoCompass	joint	0.2	3.0	0.7165510065440412	10	3
+10	MAPK	0.15	ensemble_cross_model_joint_3	PhenoCompass	joint		3.0	0.8223408920878157	10	3
+10	MAPK	0.15	ensemble_cross_model_joint_4	PhenoCompass	joint	0.01	4.0	0.4974874371859296	10	3
+10	MAPK	0.15	ensemble_cross_model_joint_4	PhenoCompass	joint	0.05	4.0	0.5155094370325389	10	3
+10	MAPK	0.15	ensemble_cross_model_joint_4	PhenoCompass	joint	0.1	4.0	0.5905753859146744	10	3
+10	MAPK	0.15	ensemble_cross_model_joint_4	PhenoCompass	joint	0.2	4.0	0.6947404025029597	10	3
+10	MAPK	0.15	ensemble_cross_model_joint_4	PhenoCompass	joint		4.0	0.8267688259422645	10	3
+10	MAPK	0.15	ensemble_cross_model_joint_5	PhenoCompass	joint	0.01	5.0	0.49856342569852063	10	3
+10	MAPK	0.15	ensemble_cross_model_joint_5	PhenoCompass	joint	0.05	5.0	0.5329831447778974	10	3
+10	MAPK	0.15	ensemble_cross_model_joint_5	PhenoCompass	joint	0.1	5.0	0.5373640354271639	10	3
+10	MAPK	0.15	ensemble_cross_model_joint_5	PhenoCompass	joint	0.2	5.0	0.5998217085594224	10	3
+10	MAPK	0.15	ensemble_cross_model_joint_5	PhenoCompass	joint		5.0	0.7718793695018445	10	3
+10	MAPK	0.15	fingerprint	Morgan Fingerprints		0.01		0.4974874371859296	0	3
+10	MAPK	0.15	fingerprint	Morgan Fingerprints		0.05		0.4871794871794871	0	3
+10	MAPK	0.15	fingerprint	Morgan Fingerprints		0.1		0.4736842105263157	0	3
+10	MAPK	0.15	fingerprint	Morgan Fingerprints		0.2		0.4444444444444444	0	3
+10	MAPK	0.15	fingerprint	Morgan Fingerprints				0.49310631272089356	0	3
+10	MAPK	0.15	gneprop	GNEprop Embeddings		0.01		0.4974874371859296	1	3
+10	MAPK	0.15	gneprop	GNEprop Embeddings		0.05		0.5219019988000716	1	3
+10	MAPK	0.15	gneprop	GNEprop Embeddings		0.1		0.5207421075713818	1	3
+10	MAPK	0.15	gneprop	GNEprop Embeddings		0.2		0.5509664141348996	1	3
+10	MAPK	0.15	gneprop	GNEprop Embeddings				0.6770724660114026	1	3
+10	MAPK	0.15	gneprop_knn_classifier_0	GNEprop Embeddings + kNN Classifier		0.1	0.0	0.4993533286671663	9	3
+10	MAPK	0.15	gneprop_knn_classifier_1	GNEprop Embeddings + kNN Classifier		0.1	1.0	0.4993584127557088	9	3
+10	MAPK	0.15	gneprop_knn_classifier_2	GNEprop Embeddings + kNN Classifier		0.1	2.0	0.4993249418230276	9	3
+10	MAPK	0.15	gneprop_knn_classifier_3	GNEprop Embeddings + kNN Classifier		0.1	3.0	0.4993310406447837	9	3
+10	MAPK	0.15	gneprop_knn_classifier_4	GNEprop Embeddings + kNN Classifier		0.1	4.0	0.4993528246998664	9	3
+10	MAPK	0.15	gneprop_knn_classifier_5	GNEprop Embeddings + kNN Classifier		0.1	5.0	0.4993356070126429	9	3
+10	MAPK	0.15	gneprop_knn_regression_0	GNEprop Embeddings + kNN Regression		0.1	0.0	0.4736842105263157	5	3
+10	MAPK	0.15	gneprop_knn_regression_1	GNEprop Embeddings + kNN Regression		0.1	1.0	0.4738661528831753	5	3
+10	MAPK	0.15	gneprop_knn_regression_2	GNEprop Embeddings + kNN Regression		0.1	2.0	0.510192166431092	5	3
+10	MAPK	0.15	gneprop_knn_regression_3	GNEprop Embeddings + kNN Regression		0.1	3.0	0.5130027685109375	5	3
+10	MAPK	0.15	gneprop_knn_regression_4	GNEprop Embeddings + kNN Regression		0.1	4.0	0.5292499494227403	5	3
+10	MAPK	0.15	gneprop_knn_regression_5	GNEprop Embeddings + kNN Regression		0.1	5.0	0.5431318796953687	5	3
+10	MAPK	0.15	gneprop_linear_regression_0	GNEprop Embeddings + Linear Regression		0.1	0.0	0.4736842105263157	4	3
+10	MAPK	0.15	gneprop_linear_regression_1	GNEprop Embeddings + Linear Regression		0.1	1.0	0.4736842105263157	4	3
+10	MAPK	0.15	gneprop_linear_regression_2	GNEprop Embeddings + Linear Regression		0.1	2.0	0.5522425753261724	4	3
+10	MAPK	0.15	gneprop_linear_regression_3	GNEprop Embeddings + Linear Regression		0.1	3.0	0.6269910128622384	4	3
+10	MAPK	0.15	gneprop_linear_regression_4	GNEprop Embeddings + Linear Regression		0.1	4.0	0.5712704871846049	4	3
+10	MAPK	0.15	gneprop_linear_regression_5	GNEprop Embeddings + Linear Regression		0.1	5.0	0.5113544250689412	4	3
+10	MAPK	0.15	gneprop_logistic_regression_0	GNEprop Embeddings + Logistic Regression		0.1	0.0	0.49397214109493987	8	3
+10	MAPK	0.15	gneprop_logistic_regression_1	GNEprop Embeddings + Logistic Regression		0.1	1.0	0.49481396394011107	8	3
+10	MAPK	0.15	gneprop_logistic_regression_2	GNEprop Embeddings + Logistic Regression		0.1	2.0	0.49469991052237816	8	3
+10	MAPK	0.15	gneprop_logistic_regression_3	GNEprop Embeddings + Logistic Regression		0.1	3.0	0.4915281392863785	8	3
+10	MAPK	0.15	gneprop_logistic_regression_4	GNEprop Embeddings + Logistic Regression		0.1	4.0	0.4949388795881041	8	3
+10	MAPK	0.15	gneprop_logistic_regression_5	GNEprop Embeddings + Logistic Regression		0.1	5.0	0.49456956375925487	8	3
+10	MAPK	0.15	mf_knn_classifier_0	Morgan Fingerprints + kNN Classifier		0.1	0.0	0.4990372368255007	7	3
+10	MAPK	0.15	mf_knn_classifier_1	Morgan Fingerprints + kNN Classifier		0.1	1.0	0.49902765255714115	7	3
+10	MAPK	0.15	mf_knn_classifier_2	Morgan Fingerprints + kNN Classifier		0.1	2.0	0.4990134326754634	7	3
+10	MAPK	0.15	mf_knn_classifier_3	Morgan Fingerprints + kNN Classifier		0.1	3.0	0.4989963664429765	7	3
+10	MAPK	0.15	mf_knn_classifier_4	Morgan Fingerprints + kNN Classifier		0.1	4.0	0.49901396599235376	7	3
+10	MAPK	0.15	mf_knn_classifier_5	Morgan Fingerprints + kNN Classifier		0.1	5.0	0.49901800881626684	7	3
+10	MAPK	0.15	mf_knn_regression_0	Morgan Fingerprints + kNN Regression		0.1	0.0	0.4736842105263157	3	3
+10	MAPK	0.15	mf_knn_regression_1	Morgan Fingerprints + kNN Regression		0.1	1.0	0.4736842105263157	3	3
+10	MAPK	0.15	mf_knn_regression_2	Morgan Fingerprints + kNN Regression		0.1	2.0	0.4873244561756531	3	3
+10	MAPK	0.15	mf_knn_regression_3	Morgan Fingerprints + kNN Regression		0.1	3.0	0.4736842105263157	3	3
+10	MAPK	0.15	mf_knn_regression_4	Morgan Fingerprints + kNN Regression		0.1	4.0	0.4736842105263157	3	3
+10	MAPK	0.15	mf_knn_regression_5	Morgan Fingerprints + kNN Regression		0.1	5.0	0.4736842105263157	3	3
+10	MAPK	0.15	mf_linear_regression_0	Morgan Fingerprints + Linear Regression		0.1	0.0	0.5428141594602558	2	3
+10	MAPK	0.15	mf_linear_regression_1	Morgan Fingerprints + Linear Regression		0.1	1.0	0.5871537833826885	2	3
+10	MAPK	0.15	mf_linear_regression_2	Morgan Fingerprints + Linear Regression		0.1	2.0	0.5513980369234361	2	3
+10	MAPK	0.15	mf_linear_regression_3	Morgan Fingerprints + Linear Regression		0.1	3.0	0.5744666984386901	2	3
+10	MAPK	0.15	mf_linear_regression_4	Morgan Fingerprints + Linear Regression		0.1	4.0	0.5250136796212339	2	3
+10	MAPK	0.15	mf_linear_regression_5	Morgan Fingerprints + Linear Regression		0.1	5.0	0.5820485351603604	2	3
+10	MAPK	0.15	mf_logistic_regression_0	Morgan Fingerprints + Logistic Regression		0.1	0.0	0.5662222656711432	6	3
+10	MAPK	0.15	mf_logistic_regression_1	Morgan Fingerprints + Logistic Regression		0.1	1.0	0.5657008786186501	6	3
+10	MAPK	0.15	mf_logistic_regression_2	Morgan Fingerprints + Logistic Regression		0.1	2.0	0.5686554052494442	6	3
+10	MAPK	0.15	mf_logistic_regression_3	Morgan Fingerprints + Logistic Regression		0.1	3.0	0.5651903537964174	6	3
+10	MAPK	0.15	mf_logistic_regression_4	Morgan Fingerprints + Logistic Regression		0.1	4.0	0.5677755645983622	6	3
+10	MAPK	0.15	mf_logistic_regression_5	Morgan Fingerprints + Logistic Regression		0.1	5.0	0.5691604989565469	6	3
+11	CDK	0.15	ensemble_cross_model_joint_0	PhenoCompass	joint	0.01	0.0	0.7008128056115264	10	2
+11	CDK	0.15	ensemble_cross_model_joint_0	PhenoCompass	joint	0.05	0.0	0.8618260077512457	10	2
+11	CDK	0.15	ensemble_cross_model_joint_0	PhenoCompass	joint	0.1	0.0	0.8962001881881393	10	2
+11	CDK	0.15	ensemble_cross_model_joint_0	PhenoCompass	joint	0.2	0.0	0.9250380517503805	10	2
+11	CDK	0.15	ensemble_cross_model_joint_0	PhenoCompass	joint		0.0	0.9584844439284885	10	2
+11	CDK	0.15	ensemble_cross_model_joint_1	PhenoCompass	joint	0.01	1.0	0.7109050593109498	10	2
+11	CDK	0.15	ensemble_cross_model_joint_1	PhenoCompass	joint	0.05	1.0	0.8340358271865121	10	2
+11	CDK	0.15	ensemble_cross_model_joint_1	PhenoCompass	joint	0.1	1.0	0.8819394376351839	10	2
+11	CDK	0.15	ensemble_cross_model_joint_1	PhenoCompass	joint	0.2	1.0	0.9029680365296804	10	2
+11	CDK	0.15	ensemble_cross_model_joint_1	PhenoCompass	joint		1.0	0.9474309263988856	10	2
+11	CDK	0.15	ensemble_cross_model_joint_2	PhenoCompass	joint	0.01	2.0	0.7416412221310873	10	2
+11	CDK	0.15	ensemble_cross_model_joint_2	PhenoCompass	joint	0.05	2.0	0.8722026754299799	10	2
+11	CDK	0.15	ensemble_cross_model_joint_2	PhenoCompass	joint	0.1	2.0	0.9066620434299122	10	2
+11	CDK	0.15	ensemble_cross_model_joint_2	PhenoCompass	joint	0.2	2.0	0.9333771895880092	10	2
+11	CDK	0.15	ensemble_cross_model_joint_2	PhenoCompass	joint		2.0	0.9379846761086603	10	2
+11	CDK	0.15	ensemble_cross_model_joint_3	PhenoCompass	joint	0.01	3.0	0.7154115714397388	10	2
+11	CDK	0.15	ensemble_cross_model_joint_3	PhenoCompass	joint	0.05	3.0	0.8670351782726986	10	2
+11	CDK	0.15	ensemble_cross_model_joint_3	PhenoCompass	joint	0.1	3.0	0.9008330991164933	10	2
+11	CDK	0.15	ensemble_cross_model_joint_3	PhenoCompass	joint	0.2	3.0	0.9303008023114827	10	2
+11	CDK	0.15	ensemble_cross_model_joint_3	PhenoCompass	joint		3.0	0.9628952867425121	10	2
+11	CDK	0.15	ensemble_cross_model_joint_4	PhenoCompass	joint	0.01	4.0	0.7040942464820037	10	2
+11	CDK	0.15	ensemble_cross_model_joint_4	PhenoCompass	joint	0.05	4.0	0.8639989760259089	10	2
+11	CDK	0.15	ensemble_cross_model_joint_4	PhenoCompass	joint	0.1	4.0	0.8973152640132953	10	2
+11	CDK	0.15	ensemble_cross_model_joint_4	PhenoCompass	joint	0.2	4.0	0.915001096406367	10	2
+11	CDK	0.15	ensemble_cross_model_joint_4	PhenoCompass	joint		4.0	0.9488240074297656	10	2
+11	CDK	0.15	ensemble_cross_model_joint_5	PhenoCompass	joint	0.01	5.0	0.7222807209952712	10	2
+11	CDK	0.15	ensemble_cross_model_joint_5	PhenoCompass	joint	0.05	5.0	0.8735659897721657	10	2
+11	CDK	0.15	ensemble_cross_model_joint_5	PhenoCompass	joint	0.1	5.0	0.902224652646243	10	2
+11	CDK	0.15	ensemble_cross_model_joint_5	PhenoCompass	joint	0.2	5.0	0.9221132265304544	10	2
+11	CDK	0.15	ensemble_cross_model_joint_5	PhenoCompass	joint		5.0	0.9664760854423032	10	2
+11	CDK	0.15	fingerprint	Morgan Fingerprints		0.01		0.4974874371859296	0	2
+11	CDK	0.15	fingerprint	Morgan Fingerprints		0.05		0.4871794871794871	0	2
+11	CDK	0.15	fingerprint	Morgan Fingerprints		0.1		0.4736842105263157	0	2
+11	CDK	0.15	fingerprint	Morgan Fingerprints		0.2		0.4444444444444444	0	2
+11	CDK	0.15	fingerprint	Morgan Fingerprints				0.31802762944044577	0	2
+11	CDK	0.15	gneprop	GNEprop Embeddings		0.01		0.4974874371859296	1	2
+11	CDK	0.15	gneprop	GNEprop Embeddings		0.05		0.4871794871794871	1	2
+11	CDK	0.15	gneprop	GNEprop Embeddings		0.1		0.4736842105263157	1	2
+11	CDK	0.15	gneprop	GNEprop Embeddings		0.2		0.4536994040708923	1	2
+11	CDK	0.15	gneprop	GNEprop Embeddings				0.5079765498026468	1	2
+11	CDK	0.15	gneprop_knn_classifier_0	GNEprop Embeddings + kNN Classifier		0.1	0.0	0.5286350039640246	9	2
+11	CDK	0.15	gneprop_knn_classifier_1	GNEprop Embeddings + kNN Classifier		0.1	1.0	0.5286896981870665	9	2
+11	CDK	0.15	gneprop_knn_classifier_2	GNEprop Embeddings + kNN Classifier		0.1	2.0	0.5286739743825578	9	2
+11	CDK	0.15	gneprop_knn_classifier_3	GNEprop Embeddings + kNN Classifier		0.1	3.0	0.5286692725064093	9	2
+11	CDK	0.15	gneprop_knn_classifier_4	GNEprop Embeddings + kNN Classifier		0.1	4.0	0.5286832945972535	9	2
+11	CDK	0.15	gneprop_knn_classifier_5	GNEprop Embeddings + kNN Classifier		0.1	5.0	0.5286847784403745	9	2
+11	CDK	0.15	gneprop_knn_regression_0	GNEprop Embeddings + kNN Regression		0.1	0.0	0.5249578409688023	5	2
+11	CDK	0.15	gneprop_knn_regression_1	GNEprop Embeddings + kNN Regression		0.1	1.0	0.5735537619297838	5	2
+11	CDK	0.15	gneprop_knn_regression_2	GNEprop Embeddings + kNN Regression		0.1	2.0	0.5368769322889299	5	2
+11	CDK	0.15	gneprop_knn_regression_3	GNEprop Embeddings + kNN Regression		0.1	3.0	0.5428265491916463	5	2
+11	CDK	0.15	gneprop_knn_regression_4	GNEprop Embeddings + kNN Regression		0.1	4.0	0.511903816308824	5	2
+11	CDK	0.15	gneprop_knn_regression_5	GNEprop Embeddings + kNN Regression		0.1	5.0	0.5385128859995356	5	2
+11	CDK	0.15	gneprop_linear_regression_0	GNEprop Embeddings + Linear Regression		0.1	0.0	0.5786510332017645	4	2
+11	CDK	0.15	gneprop_linear_regression_1	GNEprop Embeddings + Linear Regression		0.1	1.0	0.5922259357471924	4	2
+11	CDK	0.15	gneprop_linear_regression_2	GNEprop Embeddings + Linear Regression		0.1	2.0	0.634313174391749	4	2
+11	CDK	0.15	gneprop_linear_regression_3	GNEprop Embeddings + Linear Regression		0.1	3.0	0.6311940170835726	4	2
+11	CDK	0.15	gneprop_linear_regression_4	GNEprop Embeddings + Linear Regression		0.1	4.0	0.6714788043943153	4	2
+11	CDK	0.15	gneprop_linear_regression_5	GNEprop Embeddings + Linear Regression		0.1	5.0	0.5367593147018928	4	2
+11	CDK	0.15	gneprop_logistic_regression_0	GNEprop Embeddings + Logistic Regression		0.1	0.0	0.5241681228844108	8	2
+11	CDK	0.15	gneprop_logistic_regression_1	GNEprop Embeddings + Logistic Regression		0.1	1.0	0.5237434775701734	8	2
+11	CDK	0.15	gneprop_logistic_regression_2	GNEprop Embeddings + Logistic Regression		0.1	2.0	0.5234257573350604	8	2
+11	CDK	0.15	gneprop_logistic_regression_3	GNEprop Embeddings + Logistic Regression		0.1	3.0	0.5257994940916255	8	2
+11	CDK	0.15	gneprop_logistic_regression_4	GNEprop Embeddings + Logistic Regression		0.1	4.0	0.5254084538022558	8	2
+11	CDK	0.15	gneprop_logistic_regression_5	GNEprop Embeddings + Logistic Regression		0.1	5.0	0.5243300380042281	8	2
+11	CDK	0.15	mf_knn_classifier_0	Morgan Fingerprints + kNN Classifier		0.1	0.0	0.49879956760988237	7	2
+11	CDK	0.15	mf_knn_classifier_1	Morgan Fingerprints + kNN Classifier		0.1	1.0	0.4987582531885535	7	2
+11	CDK	0.15	mf_knn_classifier_2	Morgan Fingerprints + kNN Classifier		0.1	2.0	0.49876531813025343	7	2
+11	CDK	0.15	mf_knn_classifier_3	Morgan Fingerprints + kNN Classifier		0.1	3.0	0.4987978300034325	7	2
+11	CDK	0.15	mf_knn_classifier_4	Morgan Fingerprints + kNN Classifier		0.1	4.0	0.49879222875676155	7	2
+11	CDK	0.15	mf_knn_classifier_5	Morgan Fingerprints + kNN Classifier		0.1	5.0	0.4987410188914492	7	2
+11	CDK	0.15	mf_knn_regression_0	Morgan Fingerprints + kNN Regression		0.1	0.0	0.5601957645448657	3	2
+11	CDK	0.15	mf_knn_regression_1	Morgan Fingerprints + kNN Regression		0.1	1.0	0.538523578507448	3	2
+11	CDK	0.15	mf_knn_regression_2	Morgan Fingerprints + kNN Regression		0.1	2.0	0.5393423191133161	3	2
+11	CDK	0.15	mf_knn_regression_3	Morgan Fingerprints + kNN Regression		0.1	3.0	0.5346299781261837	3	2
+11	CDK	0.15	mf_knn_regression_4	Morgan Fingerprints + kNN Regression		0.1	4.0	0.5405734850243789	3	2
+11	CDK	0.15	mf_knn_regression_5	Morgan Fingerprints + kNN Regression		0.1	5.0	0.5400312221231043	3	2
+11	CDK	0.15	mf_linear_regression_0	Morgan Fingerprints + Linear Regression		0.1	0.0	0.5538688548629526	2	2
+11	CDK	0.15	mf_linear_regression_1	Morgan Fingerprints + Linear Regression		0.1	1.0	0.5635348820158126	2	2
+11	CDK	0.15	mf_linear_regression_2	Morgan Fingerprints + Linear Regression		0.1	2.0	0.5675415174807229	2	2
+11	CDK	0.15	mf_linear_regression_3	Morgan Fingerprints + Linear Regression		0.1	3.0	0.5705430572018623	2	2
+11	CDK	0.15	mf_linear_regression_4	Morgan Fingerprints + Linear Regression		0.1	4.0	0.562844451504894	2	2
+11	CDK	0.15	mf_linear_regression_5	Morgan Fingerprints + Linear Regression		0.1	5.0	0.5629635965930614	2	2
+11	CDK	0.15	mf_logistic_regression_0	Morgan Fingerprints + Logistic Regression		0.1	0.0	0.4736842105263157	6	2
+11	CDK	0.15	mf_logistic_regression_1	Morgan Fingerprints + Logistic Regression		0.1	1.0	0.4736842105263157	6	2
+11	CDK	0.15	mf_logistic_regression_2	Morgan Fingerprints + Logistic Regression		0.1	2.0	0.4736842105263157	6	2
+11	CDK	0.15	mf_logistic_regression_3	Morgan Fingerprints + Logistic Regression		0.1	3.0	0.4736842105263157	6	2
+11	CDK	0.15	mf_logistic_regression_4	Morgan Fingerprints + Logistic Regression		0.1	4.0	0.4736842105263157	6	2
+11	CDK	0.15	mf_logistic_regression_5	Morgan Fingerprints + Logistic Regression		0.1	5.0	0.4736842105263157	6	2

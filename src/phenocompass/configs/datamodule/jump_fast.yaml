@@ -1,0 +1,31 @@
+# JUMP Fast Dataset Configuration
+_target_: phenocompass.data.datamodule.MultiInput_DataModule
+batch_size: 128
+num_workers: 8
+pin_memory: false
+split_sizes:
+  - 0.8
+  - 0.1
+  - 0.1
+split_type: scaffold
+split_by_source: false
+shuffle_train: true
+seed: 0
+verbose: true
+
+dataset:
+  _target_: phenocompass.data.dataset.FastH5DatasetJUMP
+  data: null  # Path to HDF5 file
+  mods:
+    - struct
+    - morph
+  struct_ipt: graph
+  labels: null
+  joint_as_input: true
+  avg_morph_feat: true
+  fixed_struct_data: null
+  index_predetermined_file: null
+  morph_meta_idx: 1
+  ohe_batch: true
+  graph_data: null
+  morph_aug: null

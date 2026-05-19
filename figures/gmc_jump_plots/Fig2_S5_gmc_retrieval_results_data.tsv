@@ -1,0 +1,577 @@
+value	metric	lookup	K	method	plate_matched	method_rank
+0.17264218862491001	struct>morph_h1	struct>morph	1	PhenoCompass (Curated Features)	False	6
+0.17523398128149748	struct>morph_h1	struct>morph	1	PhenoCompass (Curated Features)	False	6
+0.1709143268538517	struct>morph_h1	struct>morph	1	PhenoCompass (Curated Features)	False	6
+0.17393808495320373	struct>morph_h1	struct>morph	1	PhenoCompass (Curated Features)	False	6
+0.17782577393808496	struct>morph_h1	struct>morph	1	PhenoCompass (Curated Features)	False	6
+0.17019438444924406	struct>morph_h1	struct>morph	1	PhenoCompass (Curated Features)	False	6
+0.39640028797696186	struct>morph_h5	struct>morph	5	PhenoCompass (Curated Features)	False	6
+0.38891288696904247	struct>morph_h5	struct>morph	5	PhenoCompass (Curated Features)	False	6
+0.39755219582433404	struct>morph_h5	struct>morph	5	PhenoCompass (Curated Features)	False	6
+0.3976961843052556	struct>morph_h5	struct>morph	5	PhenoCompass (Curated Features)	False	6
+0.3976961843052556	struct>morph_h5	struct>morph	5	PhenoCompass (Curated Features)	False	6
+0.3923686105111591	struct>morph_h5	struct>morph	5	PhenoCompass (Curated Features)	False	6
+0.5269978401727862	struct>morph_h10	struct>morph	10	PhenoCompass (Curated Features)	False	6
+0.5229661627069835	struct>morph_h10	struct>morph	10	PhenoCompass (Curated Features)	False	6
+0.5308855291576674	struct>morph_h10	struct>morph	10	PhenoCompass (Curated Features)	False	6
+0.5307415406767458	struct>morph_h10	struct>morph	10	PhenoCompass (Curated Features)	False	6
+0.5262778977681786	struct>morph_h10	struct>morph	10	PhenoCompass (Curated Features)	False	6
+0.5189344852411807	struct>morph_h10	struct>morph	10	PhenoCompass (Curated Features)	False	6
+0.1730741540676746	morph>struct_h1	morph>struct	1	PhenoCompass (Curated Features)	False	6
+0.16918646508279336	morph>struct_h1	morph>struct	1	PhenoCompass (Curated Features)	False	6
+0.17134629229661627	morph>struct_h1	morph>struct	1	PhenoCompass (Curated Features)	False	6
+0.1759539236861051	morph>struct_h1	morph>struct	1	PhenoCompass (Curated Features)	False	6
+0.17264218862491001	morph>struct_h1	morph>struct	1	PhenoCompass (Curated Features)	False	6
+0.17163426925845932	morph>struct_h1	morph>struct	1	PhenoCompass (Curated Features)	False	6
+0.4061915046796256	morph>struct_h5	morph>struct	5	PhenoCompass (Curated Features)	False	6
+0.39928005759539237	morph>struct_h5	morph>struct	5	PhenoCompass (Curated Features)	False	6
+0.4103671706263499	morph>struct_h5	morph>struct	5	PhenoCompass (Curated Features)	False	6
+0.4012958963282937	morph>struct_h5	morph>struct	5	PhenoCompass (Curated Features)	False	6
+0.4070554355651548	morph>struct_h5	morph>struct	5	PhenoCompass (Curated Features)	False	6
+0.402735781137509	morph>struct_h5	morph>struct	5	PhenoCompass (Curated Features)	False	6
+0.5409647228221742	morph>struct_h10	morph>struct	10	PhenoCompass (Curated Features)	False	6
+0.5360691144708424	morph>struct_h10	morph>struct	10	PhenoCompass (Curated Features)	False	6
+0.5392368610511159	morph>struct_h10	morph>struct	10	PhenoCompass (Curated Features)	False	6
+0.5308855291576674	morph>struct_h10	morph>struct	10	PhenoCompass (Curated Features)	False	6
+0.5413966882649388	morph>struct_h10	morph>struct	10	PhenoCompass (Curated Features)	False	6
+0.5347732181425486	morph>struct_h10	morph>struct	10	PhenoCompass (Curated Features)	False	6
+0.19164866810655148	struct>morph_h1	struct>morph	1	PhenoCompass (GNEprop)	False	7
+0.19985601151907847	struct>morph_h1	struct>morph	1	PhenoCompass (GNEprop)	False	7
+0.20691144708423326	struct>morph_h1	struct>morph	1	PhenoCompass (GNEprop)	False	7
+0.19712023038156948	struct>morph_h1	struct>morph	1	PhenoCompass (GNEprop)	False	7
+0.18488120950323975	struct>morph_h1	struct>morph	1	PhenoCompass (GNEprop)	False	7
+0.19740820734341252	struct>morph_h1	struct>morph	1	PhenoCompass (GNEprop)	False	7
+0.4192944564434845	struct>morph_h5	struct>morph	5	PhenoCompass (GNEprop)	False	7
+0.42491000719942407	struct>morph_h5	struct>morph	5	PhenoCompass (GNEprop)	False	7
+0.4427645788336933	struct>morph_h5	struct>morph	5	PhenoCompass (GNEprop)	False	7
+0.4192944564434845	struct>morph_h5	struct>morph	5	PhenoCompass (GNEprop)	False	7
+0.4103671706263499	struct>morph_h5	struct>morph	5	PhenoCompass (GNEprop)	False	7
+0.42764578833693306	struct>morph_h5	struct>morph	5	PhenoCompass (GNEprop)	False	7
+0.5444204463642909	struct>morph_h10	struct>morph	10	PhenoCompass (GNEprop)	False	7
+0.5429805615550756	struct>morph_h10	struct>morph	10	PhenoCompass (GNEprop)	False	7
+0.5638588912886969	struct>morph_h10	struct>morph	10	PhenoCompass (GNEprop)	False	7
+0.5553635709143269	struct>morph_h10	struct>morph	10	PhenoCompass (GNEprop)	False	7
+0.5303095752339813	struct>morph_h10	struct>morph	10	PhenoCompass (GNEprop)	False	7
+0.5542116630669547	struct>morph_h10	struct>morph	10	PhenoCompass (GNEprop)	False	7
+0.19812814974802015	morph>struct_h1	morph>struct	1	PhenoCompass (GNEprop)	False	7
+0.19654427645788336	morph>struct_h1	morph>struct	1	PhenoCompass (GNEprop)	False	7
+0.19740820734341252	morph>struct_h1	morph>struct	1	PhenoCompass (GNEprop)	False	7
+0.19625629949604032	morph>struct_h1	morph>struct	1	PhenoCompass (GNEprop)	False	7
+0.1851691864650828	morph>struct_h1	morph>struct	1	PhenoCompass (GNEprop)	False	7
+0.19035277177825774	morph>struct_h1	morph>struct	1	PhenoCompass (GNEprop)	False	7
+0.42606191504679625	morph>struct_h5	morph>struct	5	PhenoCompass (GNEprop)	False	7
+0.42649388048956083	morph>struct_h5	morph>struct	5	PhenoCompass (GNEprop)	False	7
+0.4502519798416127	morph>struct_h5	morph>struct	5	PhenoCompass (GNEprop)	False	7
+0.4325413966882649	morph>struct_h5	morph>struct	5	PhenoCompass (GNEprop)	False	7
+0.41339092872570193	morph>struct_h5	morph>struct	5	PhenoCompass (GNEprop)	False	7
+0.4316774658027358	morph>struct_h5	morph>struct	5	PhenoCompass (GNEprop)	False	7
+0.5530597552195824	morph>struct_h10	morph>struct	10	PhenoCompass (GNEprop)	False	7
+0.5526277897768178	morph>struct_h10	morph>struct	10	PhenoCompass (GNEprop)	False	7
+0.57264218862491	morph>struct_h10	morph>struct	10	PhenoCompass (GNEprop)	False	7
+0.5578113750899928	morph>struct_h10	morph>struct	10	PhenoCompass (GNEprop)	False	7
+0.5377969762419006	morph>struct_h10	morph>struct	10	PhenoCompass (GNEprop)	False	7
+0.5637149028077754	morph>struct_h10	morph>struct	10	PhenoCompass (GNEprop)	False	7
+0.026493880489560834	struct>morph_h1	struct>morph	1	GNEprop Embeddings + MLP Regression	False	5
+0.027933765298776097	struct>morph_h1	struct>morph	1	GNEprop Embeddings + MLP Regression	False	5
+0.023758099352051837	struct>morph_h1	struct>morph	1	GNEprop Embeddings + MLP Regression	False	5
+0.025053995680345574	struct>morph_h1	struct>morph	1	GNEprop Embeddings + MLP Regression	False	5
+0.025053995680345574	struct>morph_h1	struct>morph	1	GNEprop Embeddings + MLP Regression	False	5
+0.021742260619150466	struct>morph_h1	struct>morph	1	GNEprop Embeddings + MLP Regression	False	5
+0.09949604031677466	struct>morph_h5	struct>morph	5	GNEprop Embeddings + MLP Regression	False	5
+0.11346292296616271	struct>morph_h5	struct>morph	5	GNEprop Embeddings + MLP Regression	False	5
+0.10640748740100792	struct>morph_h5	struct>morph	5	GNEprop Embeddings + MLP Regression	False	5
+0.11202303815694745	struct>morph_h5	struct>morph	5	GNEprop Embeddings + MLP Regression	False	5
+0.11879049676025918	struct>morph_h5	struct>morph	5	GNEprop Embeddings + MLP Regression	False	5
+0.10885529157667387	struct>morph_h5	struct>morph	5	GNEprop Embeddings + MLP Regression	False	5
+0.17249820014398848	struct>morph_h10	struct>morph	10	GNEprop Embeddings + MLP Regression	False	5
+0.20230381569474443	struct>morph_h10	struct>morph	10	GNEprop Embeddings + MLP Regression	False	5
+0.19654427645788336	struct>morph_h10	struct>morph	10	GNEprop Embeddings + MLP Regression	False	5
+0.20647948164146868	struct>morph_h10	struct>morph	10	GNEprop Embeddings + MLP Regression	False	5
+0.21843052555795536	struct>morph_h10	struct>morph	10	GNEprop Embeddings + MLP Regression	False	5
+0.2033117350611951	struct>morph_h10	struct>morph	10	GNEprop Embeddings + MLP Regression	False	5
+0.1447084233261339	morph>struct_h1	morph>struct	1	GNEprop Embeddings + MLP Regression	False	5
+0.028941684665226782	morph>struct_h1	morph>struct	1	GNEprop Embeddings + MLP Regression	False	5
+0.029517638588912886	morph>struct_h1	morph>struct	1	GNEprop Embeddings + MLP Regression	False	5
+0.032253419726421886	morph>struct_h1	morph>struct	1	GNEprop Embeddings + MLP Regression	False	5
+0.03282937365010799	morph>struct_h1	morph>struct	1	GNEprop Embeddings + MLP Regression	False	5
+0.029805615550755938	morph>struct_h1	morph>struct	1	GNEprop Embeddings + MLP Regression	False	5
+0.39208063354931605	morph>struct_h5	morph>struct	5	GNEprop Embeddings + MLP Regression	False	5
+0.12397408207343412	morph>struct_h5	morph>struct	5	GNEprop Embeddings + MLP Regression	False	5
+0.1303095752339813	morph>struct_h5	morph>struct	5	GNEprop Embeddings + MLP Regression	False	5
+0.1287257019438445	morph>struct_h5	morph>struct	5	GNEprop Embeddings + MLP Regression	False	5
+0.14240460763138948	morph>struct_h5	morph>struct	5	GNEprop Embeddings + MLP Regression	False	5
+0.13621310295176386	morph>struct_h5	morph>struct	5	GNEprop Embeddings + MLP Regression	False	5
+0.5166306695464363	morph>struct_h10	morph>struct	10	GNEprop Embeddings + MLP Regression	False	5
+0.2267818574514039	morph>struct_h10	morph>struct	10	GNEprop Embeddings + MLP Regression	False	5
+0.23225341972642188	morph>struct_h10	morph>struct	10	GNEprop Embeddings + MLP Regression	False	5
+0.23225341972642188	morph>struct_h10	morph>struct	10	GNEprop Embeddings + MLP Regression	False	5
+0.2650827933765299	morph>struct_h10	morph>struct	10	GNEprop Embeddings + MLP Regression	False	5
+0.2609071274298056	morph>struct_h10	morph>struct	10	GNEprop Embeddings + MLP Regression	False	5
+0.03786897048236141	struct>morph_h1	struct>morph	1	GNEprop Embeddings + kNN Regression	False	4
+0.03974082073434125	struct>morph_h1	struct>morph	1	GNEprop Embeddings + kNN Regression	False	4
+0.03858891288696904	struct>morph_h1	struct>morph	1	GNEprop Embeddings + kNN Regression	False	4
+0.03772498200143989	struct>morph_h1	struct>morph	1	GNEprop Embeddings + kNN Regression	False	4
+0.039020878329733624	struct>morph_h1	struct>morph	1	GNEprop Embeddings + kNN Regression	False	4
+0.038876889848812095	struct>morph_h1	struct>morph	1	GNEprop Embeddings + kNN Regression	False	4
+0.1303095752339813	struct>morph_h5	struct>morph	5	GNEprop Embeddings + kNN Regression	False	4
+0.13707703383729303	struct>morph_h5	struct>morph	5	GNEprop Embeddings + kNN Regression	False	4
+0.13851691864650828	struct>morph_h5	struct>morph	5	GNEprop Embeddings + kNN Regression	False	4
+0.1337652987760979	struct>morph_h5	struct>morph	5	GNEprop Embeddings + kNN Regression	False	4
+0.13606911447084233	struct>morph_h5	struct>morph	5	GNEprop Embeddings + kNN Regression	False	4
+0.1331893448524118	struct>morph_h5	struct>morph	5	GNEprop Embeddings + kNN Regression	False	4
+0.21569474442044637	struct>morph_h10	struct>morph	10	GNEprop Embeddings + kNN Regression	False	4
+0.2226061915046796	struct>morph_h10	struct>morph	10	GNEprop Embeddings + kNN Regression	False	4
+0.2240460763138949	struct>morph_h10	struct>morph	10	GNEprop Embeddings + kNN Regression	False	4
+0.2230381569474442	struct>morph_h10	struct>morph	10	GNEprop Embeddings + kNN Regression	False	4
+0.22174226061915048	struct>morph_h10	struct>morph	10	GNEprop Embeddings + kNN Regression	False	4
+0.22073434125269978	struct>morph_h10	struct>morph	10	GNEprop Embeddings + kNN Regression	False	4
+0.04362850971922246	morph>struct_h1	morph>struct	1	GNEprop Embeddings + kNN Regression	False	4
+0.044348452123830095	morph>struct_h1	morph>struct	1	GNEprop Embeddings + kNN Regression	False	4
+0.04146868250539957	morph>struct_h1	morph>struct	1	GNEprop Embeddings + kNN Regression	False	4
+0.04161267098632109	morph>struct_h1	morph>struct	1	GNEprop Embeddings + kNN Regression	False	4
+0.04362850971922246	morph>struct_h1	morph>struct	1	GNEprop Embeddings + kNN Regression	False	4
+0.042764578833693306	morph>struct_h1	morph>struct	1	GNEprop Embeddings + kNN Regression	False	4
+0.13938084953203744	morph>struct_h5	morph>struct	5	GNEprop Embeddings + kNN Regression	False	4
+0.14614830813534918	morph>struct_h5	morph>struct	5	GNEprop Embeddings + kNN Regression	False	4
+0.1457163426925846	morph>struct_h5	morph>struct	5	GNEprop Embeddings + kNN Regression	False	4
+0.1418286537077034	morph>struct_h5	morph>struct	5	GNEprop Embeddings + kNN Regression	False	4
+0.14528437724982002	morph>struct_h5	morph>struct	5	GNEprop Embeddings + kNN Regression	False	4
+0.14269258459323253	morph>struct_h5	morph>struct	5	GNEprop Embeddings + kNN Regression	False	4
+0.22203023758099352	morph>struct_h10	morph>struct	10	GNEprop Embeddings + kNN Regression	False	4
+0.23758099352051837	morph>struct_h10	morph>struct	10	GNEprop Embeddings + kNN Regression	False	4
+0.23326133909287258	morph>struct_h10	morph>struct	10	GNEprop Embeddings + kNN Regression	False	4
+0.23138948884089272	morph>struct_h10	morph>struct	10	GNEprop Embeddings + kNN Regression	False	4
+0.2334053275737941	morph>struct_h10	morph>struct	10	GNEprop Embeddings + kNN Regression	False	4
+0.23110151187904968	morph>struct_h10	morph>struct	10	GNEprop Embeddings + kNN Regression	False	4
+0.05687544996400288	struct>morph_h1	struct>morph	1	GNEprop Embeddings + Linear Regression	False	3
+0.0586033117350612	struct>morph_h1	struct>morph	1	GNEprop Embeddings + Linear Regression	False	3
+0.059755219582433405	struct>morph_h1	struct>morph	1	GNEprop Embeddings + Linear Regression	False	3
+0.05889128869690425	struct>morph_h1	struct>morph	1	GNEprop Embeddings + Linear Regression	False	3
+0.059611231101511876	struct>morph_h1	struct>morph	1	GNEprop Embeddings + Linear Regression	False	3
+0.051115910727141826	struct>morph_h1	struct>morph	1	GNEprop Embeddings + Linear Regression	False	3
+0.1900647948164147	struct>morph_h5	struct>morph	5	GNEprop Embeddings + Linear Regression	False	3
+0.1879049676025918	struct>morph_h5	struct>morph	5	GNEprop Embeddings + Linear Regression	False	3
+0.1928005759539237	struct>morph_h5	struct>morph	5	GNEprop Embeddings + Linear Regression	False	3
+0.19150467962562995	struct>morph_h5	struct>morph	5	GNEprop Embeddings + Linear Regression	False	3
+0.19640028797696185	struct>morph_h5	struct>morph	5	GNEprop Embeddings + Linear Regression	False	3
+0.17494600431965443	struct>morph_h5	struct>morph	5	GNEprop Embeddings + Linear Regression	False	3
+0.30669546436285094	struct>morph_h10	struct>morph	10	GNEprop Embeddings + Linear Regression	False	3
+0.30007199424046077	struct>morph_h10	struct>morph	10	GNEprop Embeddings + Linear Regression	False	3
+0.30309575233981284	struct>morph_h10	struct>morph	10	GNEprop Embeddings + Linear Regression	False	3
+0.31043916486681067	struct>morph_h10	struct>morph	10	GNEprop Embeddings + Linear Regression	False	3
+0.30439164866810653	struct>morph_h10	struct>morph	10	GNEprop Embeddings + Linear Regression	False	3
+0.2833693304535637	struct>morph_h10	struct>morph	10	GNEprop Embeddings + Linear Regression	False	3
+0.03758099352051836	morph>struct_h1	morph>struct	1	GNEprop Embeddings + Linear Regression	False	3
+0.032397408207343416	morph>struct_h1	morph>struct	1	GNEprop Embeddings + Linear Regression	False	3
+0.03628509719222462	morph>struct_h1	morph>struct	1	GNEprop Embeddings + Linear Regression	False	3
+0.04449244060475162	morph>struct_h1	morph>struct	1	GNEprop Embeddings + Linear Regression	False	3
+0.037437005039596835	morph>struct_h1	morph>struct	1	GNEprop Embeddings + Linear Regression	False	3
+0.029085673146148308	morph>struct_h1	morph>struct	1	GNEprop Embeddings + Linear Regression	False	3
+0.17365010799136069	morph>struct_h5	morph>struct	5	GNEprop Embeddings + Linear Regression	False	3
+0.16961843052555794	morph>struct_h5	morph>struct	5	GNEprop Embeddings + Linear Regression	False	3
+0.1719222462203024	morph>struct_h5	morph>struct	5	GNEprop Embeddings + Linear Regression	False	3
+0.1913606911447084	morph>struct_h5	morph>struct	5	GNEprop Embeddings + Linear Regression	False	3
+0.17912167026637868	morph>struct_h5	morph>struct	5	GNEprop Embeddings + Linear Regression	False	3
+0.14557235421166306	morph>struct_h5	morph>struct	5	GNEprop Embeddings + Linear Regression	False	3
+0.3072714182865371	morph>struct_h10	morph>struct	10	GNEprop Embeddings + Linear Regression	False	3
+0.2986321094312455	morph>struct_h10	morph>struct	10	GNEprop Embeddings + Linear Regression	False	3
+0.2943124550035997	morph>struct_h10	morph>struct	10	GNEprop Embeddings + Linear Regression	False	3
+0.32397408207343414	morph>struct_h10	morph>struct	10	GNEprop Embeddings + Linear Regression	False	3
+0.31087113030957525	morph>struct_h10	morph>struct	10	GNEprop Embeddings + Linear Regression	False	3
+0.2709863210943125	morph>struct_h10	morph>struct	10	GNEprop Embeddings + Linear Regression	False	3
+0.0624910007199424	struct>morph_h1	struct>morph	1	Morgan Fingerprints + kNN Regression	False	1
+0.06220302375809935	struct>morph_h1	struct>morph	1	Morgan Fingerprints + kNN Regression	False	1
+0.06105111591072714	struct>morph_h1	struct>morph	1	Morgan Fingerprints + kNN Regression	False	1
+0.06047516198704104	struct>morph_h1	struct>morph	1	Morgan Fingerprints + kNN Regression	False	1
+0.0619150467962563	struct>morph_h1	struct>morph	1	Morgan Fingerprints + kNN Regression	False	1
+0.061483081353491724	struct>morph_h1	struct>morph	1	Morgan Fingerprints + kNN Regression	False	1
+0.1857451403887689	struct>morph_h5	struct>morph	5	Morgan Fingerprints + kNN Regression	False	1
+0.18675305975521958	struct>morph_h5	struct>morph	5	Morgan Fingerprints + kNN Regression	False	1
+0.18444924406047516	struct>morph_h5	struct>morph	5	Morgan Fingerprints + kNN Regression	False	1
+0.18660907127429804	struct>morph_h5	struct>morph	5	Morgan Fingerprints + kNN Regression	False	1
+0.18603311735061195	struct>morph_h5	struct>morph	5	Morgan Fingerprints + kNN Regression	False	1
+0.1830093592512599	struct>morph_h5	struct>morph	5	Morgan Fingerprints + kNN Regression	False	1
+0.28408927285817137	struct>morph_h10	struct>morph	10	Morgan Fingerprints + kNN Regression	False	1
+0.28452123830093595	struct>morph_h10	struct>morph	10	Morgan Fingerprints + kNN Regression	False	1
+0.2849532037437005	struct>morph_h10	struct>morph	10	Morgan Fingerprints + kNN Regression	False	1
+0.28538516918646506	struct>morph_h10	struct>morph	10	Morgan Fingerprints + kNN Regression	False	1
+0.2888408927285817	struct>morph_h10	struct>morph	10	Morgan Fingerprints + kNN Regression	False	1
+0.28250539956803455	struct>morph_h10	struct>morph	10	Morgan Fingerprints + kNN Regression	False	1
+0.07314614830813534	morph>struct_h1	morph>struct	1	Morgan Fingerprints + kNN Regression	False	1
+0.07473002159827213	morph>struct_h1	morph>struct	1	Morgan Fingerprints + kNN Regression	False	1
+0.0728581713462923	morph>struct_h1	morph>struct	1	Morgan Fingerprints + kNN Regression	False	1
+0.07401007919366451	morph>struct_h1	morph>struct	1	Morgan Fingerprints + kNN Regression	False	1
+0.07098632109431245	morph>struct_h1	morph>struct	1	Morgan Fingerprints + kNN Regression	False	1
+0.0722822174226062	morph>struct_h1	morph>struct	1	Morgan Fingerprints + kNN Regression	False	1
+0.19985601151907847	morph>struct_h5	morph>struct	5	Morgan Fingerprints + kNN Regression	False	1
+0.19928005759539236	morph>struct_h5	morph>struct	5	Morgan Fingerprints + kNN Regression	False	1
+0.19769618430525557	morph>struct_h5	morph>struct	5	Morgan Fingerprints + kNN Regression	False	1
+0.19755219582433406	morph>struct_h5	morph>struct	5	Morgan Fingerprints + kNN Regression	False	1
+0.2017278617710583	morph>struct_h5	morph>struct	5	Morgan Fingerprints + kNN Regression	False	1
+0.19208063354931607	morph>struct_h5	morph>struct	5	Morgan Fingerprints + kNN Regression	False	1
+0.2986321094312455	morph>struct_h10	morph>struct	10	Morgan Fingerprints + kNN Regression	False	1
+0.29848812095032395	morph>struct_h10	morph>struct	10	Morgan Fingerprints + kNN Regression	False	1
+0.2974802015838733	morph>struct_h10	morph>struct	10	Morgan Fingerprints + kNN Regression	False	1
+0.30352771778257737	morph>struct_h10	morph>struct	10	Morgan Fingerprints + kNN Regression	False	1
+0.30064794816414686	morph>struct_h10	morph>struct	10	Morgan Fingerprints + kNN Regression	False	1
+0.2980561555075594	morph>struct_h10	morph>struct	10	Morgan Fingerprints + kNN Regression	False	1
+0.05601151907847372	struct>morph_h1	struct>morph	1	Morgan Fingerprints + Linear Regression	False	0
+0.05601151907847372	struct>morph_h1	struct>morph	1	Morgan Fingerprints + Linear Regression	False	0
+0.05514758819294457	struct>morph_h1	struct>morph	1	Morgan Fingerprints + Linear Regression	False	0
+0.05327573794096472	struct>morph_h1	struct>morph	1	Morgan Fingerprints + Linear Regression	False	0
+0.05327573794096472	struct>morph_h1	struct>morph	1	Morgan Fingerprints + Linear Regression	False	0
+0.05485961123110151	struct>morph_h1	struct>morph	1	Morgan Fingerprints + Linear Regression	False	0
+0.20129589632829373	struct>morph_h5	struct>morph	5	Morgan Fingerprints + Linear Regression	False	0
+0.20115190784737222	struct>morph_h5	struct>morph	5	Morgan Fingerprints + Linear Regression	False	0
+0.20100791936645068	struct>morph_h5	struct>morph	5	Morgan Fingerprints + Linear Regression	False	0
+0.20028797696184306	struct>morph_h5	struct>morph	5	Morgan Fingerprints + Linear Regression	False	0
+0.20345572354211663	struct>morph_h5	struct>morph	5	Morgan Fingerprints + Linear Regression	False	0
+0.202735781137509	struct>morph_h5	struct>morph	5	Morgan Fingerprints + Linear Regression	False	0
+0.31691864650827933	struct>morph_h10	struct>morph	10	Morgan Fingerprints + Linear Regression	False	0
+0.31375089992800576	struct>morph_h10	struct>morph	10	Morgan Fingerprints + Linear Regression	False	0
+0.31907847372210224	struct>morph_h10	struct>morph	10	Morgan Fingerprints + Linear Regression	False	0
+0.31591072714182866	struct>morph_h10	struct>morph	10	Morgan Fingerprints + Linear Regression	False	0
+0.31605471562275017	struct>morph_h10	struct>morph	10	Morgan Fingerprints + Linear Regression	False	0
+0.3154787616990641	struct>morph_h10	struct>morph	10	Morgan Fingerprints + Linear Regression	False	0
+0.06493880489560835	morph>struct_h1	morph>struct	1	Morgan Fingerprints + Linear Regression	False	0
+0.06623470122390208	morph>struct_h1	morph>struct	1	Morgan Fingerprints + Linear Regression	False	0
+0.06335493160547156	morph>struct_h1	morph>struct	1	Morgan Fingerprints + Linear Regression	False	0
+0.06421886249100071	morph>struct_h1	morph>struct	1	Morgan Fingerprints + Linear Regression	False	0
+0.06493880489560835	morph>struct_h1	morph>struct	1	Morgan Fingerprints + Linear Regression	False	0
+0.06594672426205904	morph>struct_h1	morph>struct	1	Morgan Fingerprints + Linear Regression	False	0
+0.21943844492440603	morph>struct_h5	morph>struct	5	Morgan Fingerprints + Linear Regression	False	0
+0.2214542836573074	morph>struct_h5	morph>struct	5	Morgan Fingerprints + Linear Regression	False	0
+0.21987041036717062	morph>struct_h5	morph>struct	5	Morgan Fingerprints + Linear Regression	False	0
+0.21828653707703383	morph>struct_h5	morph>struct	5	Morgan Fingerprints + Linear Regression	False	0
+0.21943844492440603	morph>struct_h5	morph>struct	5	Morgan Fingerprints + Linear Regression	False	0
+0.219150467962563	morph>struct_h5	morph>struct	5	Morgan Fingerprints + Linear Regression	False	0
+0.33981281497480204	morph>struct_h10	morph>struct	10	Morgan Fingerprints + Linear Regression	False	0
+0.33664506839452846	morph>struct_h10	morph>struct	10	Morgan Fingerprints + Linear Regression	False	0
+0.3413966882649388	morph>struct_h10	morph>struct	10	Morgan Fingerprints + Linear Regression	False	0
+0.3409647228221742	morph>struct_h10	morph>struct	10	Morgan Fingerprints + Linear Regression	False	0
+0.33722102231821455	morph>struct_h10	morph>struct	10	Morgan Fingerprints + Linear Regression	False	0
+0.3412526997840173	morph>struct_h10	morph>struct	10	Morgan Fingerprints + Linear Regression	False	0
+0.042476601871850254	struct>morph_h1	struct>morph	1	Morgan Fingerprints + MLP Regression	False	2
+0.027933765298776097	struct>morph_h1	struct>morph	1	Morgan Fingerprints + MLP Regression	False	2
+0.033693304535637146	struct>morph_h1	struct>morph	1	Morgan Fingerprints + MLP Regression	False	2
+0.03455723542116631	struct>morph_h1	struct>morph	1	Morgan Fingerprints + MLP Regression	False	2
+0.03484521238300936	struct>morph_h1	struct>morph	1	Morgan Fingerprints + MLP Regression	False	2
+0.03830093592512599	struct>morph_h1	struct>morph	1	Morgan Fingerprints + MLP Regression	False	2
+0.16717062634989202	struct>morph_h5	struct>morph	5	Morgan Fingerprints + MLP Regression	False	2
+0.12786177105831534	struct>morph_h5	struct>morph	5	Morgan Fingerprints + MLP Regression	False	2
+0.1445644348452124	struct>morph_h5	struct>morph	5	Morgan Fingerprints + MLP Regression	False	2
+0.14816414686825055	struct>morph_h5	struct>morph	5	Morgan Fingerprints + MLP Regression	False	2
+0.15320374370050396	struct>morph_h5	struct>morph	5	Morgan Fingerprints + MLP Regression	False	2
+0.15680345572354212	struct>morph_h5	struct>morph	5	Morgan Fingerprints + MLP Regression	False	2
+0.2804895608351332	struct>morph_h10	struct>morph	10	Morgan Fingerprints + MLP Regression	False	2
+0.23470122390208784	struct>morph_h10	struct>morph	10	Morgan Fingerprints + MLP Regression	False	2
+0.257739380849532	struct>morph_h10	struct>morph	10	Morgan Fingerprints + MLP Regression	False	2
+0.2591792656587473	struct>morph_h10	struct>morph	10	Morgan Fingerprints + MLP Regression	False	2
+0.26709863210943124	struct>morph_h10	struct>morph	10	Morgan Fingerprints + MLP Regression	False	2
+0.2673866090712743	struct>morph_h10	struct>morph	10	Morgan Fingerprints + MLP Regression	False	2
+0.04809215262778978	morph>struct_h1	morph>struct	1	Morgan Fingerprints + MLP Regression	False	2
+0.04636429085673146	morph>struct_h1	morph>struct	1	Morgan Fingerprints + MLP Regression	False	2
+0.04161267098632109	morph>struct_h1	morph>struct	1	Morgan Fingerprints + MLP Regression	False	2
+0.03758099352051836	morph>struct_h1	morph>struct	1	Morgan Fingerprints + MLP Regression	False	2
+0.044204463642908566	morph>struct_h1	morph>struct	1	Morgan Fingerprints + MLP Regression	False	2
+0.04866810655147588	morph>struct_h1	morph>struct	1	Morgan Fingerprints + MLP Regression	False	2
+0.18272138228941684	morph>struct_h5	morph>struct	5	Morgan Fingerprints + MLP Regression	False	2
+0.1704823614110871	morph>struct_h5	morph>struct	5	Morgan Fingerprints + MLP Regression	False	2
+0.1611231101511879	morph>struct_h5	morph>struct	5	Morgan Fingerprints + MLP Regression	False	2
+0.15521958243340533	morph>struct_h5	morph>struct	5	Morgan Fingerprints + MLP Regression	False	2
+0.17005039596832253	morph>struct_h5	morph>struct	5	Morgan Fingerprints + MLP Regression	False	2
+0.18041756659467242	morph>struct_h5	morph>struct	5	Morgan Fingerprints + MLP Regression	False	2
+0.3074154067674586	morph>struct_h10	morph>struct	10	Morgan Fingerprints + MLP Regression	False	2
+0.2862491000719942	morph>struct_h10	morph>struct	10	Morgan Fingerprints + MLP Regression	False	2
+0.2761699064074874	morph>struct_h10	morph>struct	10	Morgan Fingerprints + MLP Regression	False	2
+0.26767458603311733	morph>struct_h10	morph>struct	10	Morgan Fingerprints + MLP Regression	False	2
+0.29071274298056154	morph>struct_h10	morph>struct	10	Morgan Fingerprints + MLP Regression	False	2
+0.30813534917206625	morph>struct_h10	morph>struct	10	Morgan Fingerprints + MLP Regression	False	2
+0.20863930885529158	struct>morph_h1	struct>morph	1	PhenoCompass (Curated Features)	True	6
+0.20100791936645068	struct>morph_h1	struct>morph	1	PhenoCompass (Curated Features)	True	6
+0.2	struct>morph_h1	struct>morph	1	PhenoCompass (Curated Features)	True	6
+0.21238300935925125	struct>morph_h1	struct>morph	1	PhenoCompass (Curated Features)	True	6
+0.21036717062634988	struct>morph_h1	struct>morph	1	PhenoCompass (Curated Features)	True	6
+0.20014398848092152	struct>morph_h1	struct>morph	1	PhenoCompass (Curated Features)	True	6
+0.3935205183585313	struct>morph_h5	struct>morph	5	PhenoCompass (Curated Features)	True	6
+0.3807055435565155	struct>morph_h5	struct>morph	5	PhenoCompass (Curated Features)	True	6
+0.3779697624190065	struct>morph_h5	struct>morph	5	PhenoCompass (Curated Features)	True	6
+0.3987041036717063	struct>morph_h5	struct>morph	5	PhenoCompass (Curated Features)	True	6
+0.39971202303815695	struct>morph_h5	struct>morph	5	PhenoCompass (Curated Features)	True	6
+0.37365010799136067	struct>morph_h5	struct>morph	5	PhenoCompass (Curated Features)	True	6
+0.5156227501799856	struct>morph_h10	struct>morph	10	PhenoCompass (Curated Features)	True	6
+0.5056875449964003	struct>morph_h10	struct>morph	10	PhenoCompass (Curated Features)	True	6
+0.49892008639308855	struct>morph_h10	struct>morph	10	PhenoCompass (Curated Features)	True	6
+0.5228221742260619	struct>morph_h10	struct>morph	10	PhenoCompass (Curated Features)	True	6
+0.5202303815694744	struct>morph_h10	struct>morph	10	PhenoCompass (Curated Features)	True	6
+0.5010799136069114	struct>morph_h10	struct>morph	10	PhenoCompass (Curated Features)	True	6
+0.20230381569474443	morph>struct_h1	morph>struct	1	PhenoCompass (Curated Features)	True	6
+0.2033117350611951	morph>struct_h1	morph>struct	1	PhenoCompass (Curated Features)	True	6
+0.21454283657307416	morph>struct_h1	morph>struct	1	PhenoCompass (Curated Features)	True	6
+0.2083513318934485	morph>struct_h1	morph>struct	1	PhenoCompass (Curated Features)	True	6
+0.20028797696184306	morph>struct_h1	morph>struct	1	PhenoCompass (Curated Features)	True	6
+0.20244780417566594	morph>struct_h1	morph>struct	1	PhenoCompass (Curated Features)	True	6
+0.3857451403887689	morph>struct_h5	morph>struct	5	PhenoCompass (Curated Features)	True	6
+0.39150467962562996	morph>struct_h5	morph>struct	5	PhenoCompass (Curated Features)	True	6
+0.38992080633549314	morph>struct_h5	morph>struct	5	PhenoCompass (Curated Features)	True	6
+0.39150467962562996	morph>struct_h5	morph>struct	5	PhenoCompass (Curated Features)	True	6
+0.3798416126709863	morph>struct_h5	morph>struct	5	PhenoCompass (Curated Features)	True	6
+0.3873290136789057	morph>struct_h5	morph>struct	5	PhenoCompass (Curated Features)	True	6
+0.5153347732181426	morph>struct_h10	morph>struct	10	PhenoCompass (Curated Features)	True	6
+0.506695464362851	morph>struct_h10	morph>struct	10	PhenoCompass (Curated Features)	True	6
+0.5183585313174947	morph>struct_h10	morph>struct	10	PhenoCompass (Curated Features)	True	6
+0.5114470842332614	morph>struct_h10	morph>struct	10	PhenoCompass (Curated Features)	True	6
+0.5078473722102231	morph>struct_h10	morph>struct	10	PhenoCompass (Curated Features)	True	6
+0.5147588192944564	morph>struct_h10	morph>struct	10	PhenoCompass (Curated Features)	True	6
+0.22102231821454282	struct>morph_h1	struct>morph	1	PhenoCompass (GNEprop)	True	7
+0.22462203023758098	struct>morph_h1	struct>morph	1	PhenoCompass (GNEprop)	True	7
+0.235565154787617	struct>morph_h1	struct>morph	1	PhenoCompass (GNEprop)	True	7
+0.22188624910007199	struct>morph_h1	struct>morph	1	PhenoCompass (GNEprop)	True	7
+0.2093592512598992	struct>morph_h1	struct>morph	1	PhenoCompass (GNEprop)	True	7
+0.22807775377969763	struct>morph_h1	struct>morph	1	PhenoCompass (GNEprop)	True	7
+0.3985601151907847	struct>morph_h5	struct>morph	5	PhenoCompass (GNEprop)	True	7
+0.39712023038156946	struct>morph_h5	struct>morph	5	PhenoCompass (GNEprop)	True	7
+0.4165586753059755	struct>morph_h5	struct>morph	5	PhenoCompass (GNEprop)	True	7
+0.39136069114470845	struct>morph_h5	struct>morph	5	PhenoCompass (GNEprop)	True	7
+0.3752339812814975	struct>morph_h5	struct>morph	5	PhenoCompass (GNEprop)	True	7
+0.4005759539236861	struct>morph_h5	struct>morph	5	PhenoCompass (GNEprop)	True	7
+0.5164866810655148	struct>morph_h10	struct>morph	10	PhenoCompass (GNEprop)	True	7
+0.5061195104391649	struct>morph_h10	struct>morph	10	PhenoCompass (GNEprop)	True	7
+0.5324694024478042	struct>morph_h10	struct>morph	10	PhenoCompass (GNEprop)	True	7
+0.5016558675305975	struct>morph_h10	struct>morph	10	PhenoCompass (GNEprop)	True	7
+0.4840892728581713	struct>morph_h10	struct>morph	10	PhenoCompass (GNEprop)	True	7
+0.515478761699064	struct>morph_h10	struct>morph	10	PhenoCompass (GNEprop)	True	7
+0.2241900647948164	morph>struct_h1	morph>struct	1	PhenoCompass (GNEprop)	True	7
+0.2240460763138949	morph>struct_h1	morph>struct	1	PhenoCompass (GNEprop)	True	7
+0.22505399568034556	morph>struct_h1	morph>struct	1	PhenoCompass (GNEprop)	True	7
+0.22087832973362131	morph>struct_h1	morph>struct	1	PhenoCompass (GNEprop)	True	7
+0.21353491720662346	morph>struct_h1	morph>struct	1	PhenoCompass (GNEprop)	True	7
+0.22764578833693305	morph>struct_h1	morph>struct	1	PhenoCompass (GNEprop)	True	7
+0.40777537796976243	morph>struct_h5	morph>struct	5	PhenoCompass (GNEprop)	True	7
+0.39928005759539237	morph>struct_h5	morph>struct	5	PhenoCompass (GNEprop)	True	7
+0.41555075593952484	morph>struct_h5	morph>struct	5	PhenoCompass (GNEprop)	True	7
+0.41007919366450685	morph>struct_h5	morph>struct	5	PhenoCompass (GNEprop)	True	7
+0.39222462203023756	morph>struct_h5	morph>struct	5	PhenoCompass (GNEprop)	True	7
+0.4087832973362131	morph>struct_h5	morph>struct	5	PhenoCompass (GNEprop)	True	7
+0.5300215982721382	morph>struct_h10	morph>struct	10	PhenoCompass (GNEprop)	True	7
+0.5222462203023758	morph>struct_h10	morph>struct	10	PhenoCompass (GNEprop)	True	7
+0.5388048956083513	morph>struct_h10	morph>struct	10	PhenoCompass (GNEprop)	True	7
+0.5265658747300216	morph>struct_h10	morph>struct	10	PhenoCompass (GNEprop)	True	7
+0.5108711303095752	morph>struct_h10	morph>struct	10	PhenoCompass (GNEprop)	True	7
+0.5282937365010799	morph>struct_h10	morph>struct	10	PhenoCompass (GNEprop)	True	7
+0.06335493160547156	struct>morph_h1	struct>morph	1	GNEprop Embeddings + MLP Regression	True	5
+0.04204463642908567	struct>morph_h1	struct>morph	1	GNEprop Embeddings + MLP Regression	True	5
+0.0537077033837293	struct>morph_h1	struct>morph	1	GNEprop Embeddings + MLP Regression	True	5
+0.042764578833693306	struct>morph_h1	struct>morph	1	GNEprop Embeddings + MLP Regression	True	5
+0.054283657307415405	struct>morph_h1	struct>morph	1	GNEprop Embeddings + MLP Regression	True	5
+0.05673146148308136	struct>morph_h1	struct>morph	1	GNEprop Embeddings + MLP Regression	True	5
+0.16486681065514758	struct>morph_h5	struct>morph	5	GNEprop Embeddings + MLP Regression	True	5
+0.14110871130309574	struct>morph_h5	struct>morph	5	GNEprop Embeddings + MLP Regression	True	5
+0.14989200863930885	struct>morph_h5	struct>morph	5	GNEprop Embeddings + MLP Regression	True	5
+0.13362131029517638	struct>morph_h5	struct>morph	5	GNEprop Embeddings + MLP Regression	True	5
+0.15377969762419005	struct>morph_h5	struct>morph	5	GNEprop Embeddings + MLP Regression	True	5
+0.1560835133189345	struct>morph_h5	struct>morph	5	GNEprop Embeddings + MLP Regression	True	5
+0.26148308135349174	struct>morph_h10	struct>morph	10	GNEprop Embeddings + MLP Regression	True	5
+0.24838012958963282	struct>morph_h10	struct>morph	10	GNEprop Embeddings + MLP Regression	True	5
+0.2578833693304536	struct>morph_h10	struct>morph	10	GNEprop Embeddings + MLP Regression	True	5
+0.23513318934485242	struct>morph_h10	struct>morph	10	GNEprop Embeddings + MLP Regression	True	5
+0.2650827933765299	struct>morph_h10	struct>morph	10	GNEprop Embeddings + MLP Regression	True	5
+0.25716342692584593	struct>morph_h10	struct>morph	10	GNEprop Embeddings + MLP Regression	True	5
+0.21310295176385888	morph>struct_h1	morph>struct	1	GNEprop Embeddings + MLP Regression	True	5
+0.03441324694024478	morph>struct_h1	morph>struct	1	GNEprop Embeddings + MLP Regression	True	5
+0.035421166306695465	morph>struct_h1	morph>struct	1	GNEprop Embeddings + MLP Regression	True	5
+0.03513318934485241	morph>struct_h1	morph>struct	1	GNEprop Embeddings + MLP Regression	True	5
+0.03498920086393088	morph>struct_h1	morph>struct	1	GNEprop Embeddings + MLP Regression	True	5
+0.03758099352051836	morph>struct_h1	morph>struct	1	GNEprop Embeddings + MLP Regression	True	5
+0.4093592512598992	morph>struct_h5	morph>struct	5	GNEprop Embeddings + MLP Regression	True	5
+0.11706263498920086	morph>struct_h5	morph>struct	5	GNEprop Embeddings + MLP Regression	True	5
+0.11173506119510439	morph>struct_h5	morph>struct	5	GNEprop Embeddings + MLP Regression	True	5
+0.11360691144708424	morph>struct_h5	morph>struct	5	GNEprop Embeddings + MLP Regression	True	5
+0.12080633549316054	morph>struct_h5	morph>struct	5	GNEprop Embeddings + MLP Regression	True	5
+0.13606911447084233	morph>struct_h5	morph>struct	5	GNEprop Embeddings + MLP Regression	True	5
+0.5221022318214543	morph>struct_h10	morph>struct	10	GNEprop Embeddings + MLP Regression	True	5
+0.210943124550036	morph>struct_h10	morph>struct	10	GNEprop Embeddings + MLP Regression	True	5
+0.20791936645068396	morph>struct_h10	morph>struct	10	GNEprop Embeddings + MLP Regression	True	5
+0.21123110151187904	morph>struct_h10	morph>struct	10	GNEprop Embeddings + MLP Regression	True	5
+0.23743700503959683	morph>struct_h10	morph>struct	10	GNEprop Embeddings + MLP Regression	True	5
+0.2515478761699064	morph>struct_h10	morph>struct	10	GNEprop Embeddings + MLP Regression	True	5
+0.05154787616990641	struct>morph_h1	struct>morph	1	GNEprop Embeddings + kNN Regression	True	4
+0.052843772498200145	struct>morph_h1	struct>morph	1	GNEprop Embeddings + kNN Regression	True	4
+0.0537077033837293	struct>morph_h1	struct>morph	1	GNEprop Embeddings + kNN Regression	True	4
+0.051259899208063356	struct>morph_h1	struct>morph	1	GNEprop Embeddings + kNN Regression	True	4
+0.050827933765298774	struct>morph_h1	struct>morph	1	GNEprop Embeddings + kNN Regression	True	4
+0.05140388768898488	struct>morph_h1	struct>morph	1	GNEprop Embeddings + kNN Regression	True	4
+0.12901367890568755	struct>morph_h5	struct>morph	5	GNEprop Embeddings + kNN Regression	True	4
+0.13866090712742982	struct>morph_h5	struct>morph	5	GNEprop Embeddings + kNN Regression	True	4
+0.13578113750899928	struct>morph_h5	struct>morph	5	GNEprop Embeddings + kNN Regression	True	4
+0.13347732181425487	struct>morph_h5	struct>morph	5	GNEprop Embeddings + kNN Regression	True	4
+0.13722102231821454	struct>morph_h5	struct>morph	5	GNEprop Embeddings + kNN Regression	True	4
+0.13520518358531317	struct>morph_h5	struct>morph	5	GNEprop Embeddings + kNN Regression	True	4
+0.21627069834413246	struct>morph_h10	struct>morph	10	GNEprop Embeddings + kNN Regression	True	4
+0.2263498920086393	struct>morph_h10	struct>morph	10	GNEprop Embeddings + kNN Regression	True	4
+0.2263498920086393	struct>morph_h10	struct>morph	10	GNEprop Embeddings + kNN Regression	True	4
+0.2226061915046796	struct>morph_h10	struct>morph	10	GNEprop Embeddings + kNN Regression	True	4
+0.22822174226061914	struct>morph_h10	struct>morph	10	GNEprop Embeddings + kNN Regression	True	4
+0.22203023758099352	struct>morph_h10	struct>morph	10	GNEprop Embeddings + kNN Regression	True	4
+0.051259899208063356	morph>struct_h1	morph>struct	1	GNEprop Embeddings + kNN Regression	True	4
+0.05298776097912167	morph>struct_h1	morph>struct	1	GNEprop Embeddings + kNN Regression	True	4
+0.050827933765298774	morph>struct_h1	morph>struct	1	GNEprop Embeddings + kNN Regression	True	4
+0.054715622750179986	morph>struct_h1	morph>struct	1	GNEprop Embeddings + kNN Regression	True	4
+0.05543556515478762	morph>struct_h1	morph>struct	1	GNEprop Embeddings + kNN Regression	True	4
+0.049388048956083515	morph>struct_h1	morph>struct	1	GNEprop Embeddings + kNN Regression	True	4
+0.13290136789056875	morph>struct_h5	morph>struct	5	GNEprop Embeddings + kNN Regression	True	4
+0.13880489560835133	morph>struct_h5	morph>struct	5	GNEprop Embeddings + kNN Regression	True	4
+0.14442044636429086	morph>struct_h5	morph>struct	5	GNEprop Embeddings + kNN Regression	True	4
+0.1435565154787617	morph>struct_h5	morph>struct	5	GNEprop Embeddings + kNN Regression	True	4
+0.14370050395968323	morph>struct_h5	morph>struct	5	GNEprop Embeddings + kNN Regression	True	4
+0.13074154067674587	morph>struct_h5	morph>struct	5	GNEprop Embeddings + kNN Regression	True	4
+0.22159827213822894	morph>struct_h10	morph>struct	10	GNEprop Embeddings + kNN Regression	True	4
+0.22980561555075593	morph>struct_h10	morph>struct	10	GNEprop Embeddings + kNN Regression	True	4
+0.22822174226061914	morph>struct_h10	morph>struct	10	GNEprop Embeddings + kNN Regression	True	4
+0.22606191504679626	morph>struct_h10	morph>struct	10	GNEprop Embeddings + kNN Regression	True	4
+0.22735781137508998	morph>struct_h10	morph>struct	10	GNEprop Embeddings + kNN Regression	True	4
+0.2241900647948164	morph>struct_h10	morph>struct	10	GNEprop Embeddings + kNN Regression	True	4
+0.07213822894168466	struct>morph_h1	struct>morph	1	GNEprop Embeddings + Linear Regression	True	3
+0.07876169906407487	struct>morph_h1	struct>morph	1	GNEprop Embeddings + Linear Regression	True	3
+0.07487401007919367	struct>morph_h1	struct>morph	1	GNEprop Embeddings + Linear Regression	True	3
+0.07501799856011519	struct>morph_h1	struct>morph	1	GNEprop Embeddings + Linear Regression	True	3
+0.07789776817854571	struct>morph_h1	struct>morph	1	GNEprop Embeddings + Linear Regression	True	3
+0.07127429805615551	struct>morph_h1	struct>morph	1	GNEprop Embeddings + Linear Regression	True	3
+0.18416126709863212	struct>morph_h5	struct>morph	5	GNEprop Embeddings + Linear Regression	True	3
+0.19092872570194386	struct>morph_h5	struct>morph	5	GNEprop Embeddings + Linear Regression	True	3
+0.18704103671706263	struct>morph_h5	struct>morph	5	GNEprop Embeddings + Linear Regression	True	3
+0.18675305975521958	struct>morph_h5	struct>morph	5	GNEprop Embeddings + Linear Regression	True	3
+0.19193664506839453	struct>morph_h5	struct>morph	5	GNEprop Embeddings + Linear Regression	True	3
+0.17681785457163426	struct>morph_h5	struct>morph	5	GNEprop Embeddings + Linear Regression	True	3
+0.2937365010799136	struct>morph_h10	struct>morph	10	GNEprop Embeddings + Linear Regression	True	3
+0.3041036717062635	struct>morph_h10	struct>morph	10	GNEprop Embeddings + Linear Regression	True	3
+0.2973362131029518	struct>morph_h10	struct>morph	10	GNEprop Embeddings + Linear Regression	True	3
+0.3019438444924406	struct>morph_h10	struct>morph	10	GNEprop Embeddings + Linear Regression	True	3
+0.2993520518358531	struct>morph_h10	struct>morph	10	GNEprop Embeddings + Linear Regression	True	3
+0.28250539956803455	struct>morph_h10	struct>morph	10	GNEprop Embeddings + Linear Regression	True	3
+0.044204463642908566	morph>struct_h1	morph>struct	1	GNEprop Embeddings + Linear Regression	True	3
+0.03513318934485241	morph>struct_h1	morph>struct	1	GNEprop Embeddings + Linear Regression	True	3
+0.03657307415406767	morph>struct_h1	morph>struct	1	GNEprop Embeddings + Linear Regression	True	3
+0.04694024478041757	morph>struct_h1	morph>struct	1	GNEprop Embeddings + Linear Regression	True	3
+0.03772498200143989	morph>struct_h1	morph>struct	1	GNEprop Embeddings + Linear Regression	True	3
+0.030381569474442045	morph>struct_h1	morph>struct	1	GNEprop Embeddings + Linear Regression	True	3
+0.1418286537077034	morph>struct_h5	morph>struct	5	GNEprop Embeddings + Linear Regression	True	3
+0.13462922966162708	morph>struct_h5	morph>struct	5	GNEprop Embeddings + Linear Regression	True	3
+0.12555795536357092	morph>struct_h5	morph>struct	5	GNEprop Embeddings + Linear Regression	True	3
+0.14384449244060477	morph>struct_h5	morph>struct	5	GNEprop Embeddings + Linear Regression	True	3
+0.14154067674586032	morph>struct_h5	morph>struct	5	GNEprop Embeddings + Linear Regression	True	3
+0.12368610511159107	morph>struct_h5	morph>struct	5	GNEprop Embeddings + Linear Regression	True	3
+0.25874730021598275	morph>struct_h10	morph>struct	10	GNEprop Embeddings + Linear Regression	True	3
+0.2570194384449244	morph>struct_h10	morph>struct	10	GNEprop Embeddings + Linear Regression	True	3
+0.23887688984881209	morph>struct_h10	morph>struct	10	GNEprop Embeddings + Linear Regression	True	3
+0.26925845932325415	morph>struct_h10	morph>struct	10	GNEprop Embeddings + Linear Regression	True	3
+0.25601151907847375	morph>struct_h10	morph>struct	10	GNEprop Embeddings + Linear Regression	True	3
+0.22822174226061914	morph>struct_h10	morph>struct	10	GNEprop Embeddings + Linear Regression	True	3
+0.08063354931605471	struct>morph_h1	struct>morph	1	Morgan Fingerprints + kNN Regression	True	1
+0.07919366450683946	struct>morph_h1	struct>morph	1	Morgan Fingerprints + kNN Regression	True	1
+0.07746580273578113	struct>morph_h1	struct>morph	1	Morgan Fingerprints + kNN Regression	True	1
+0.08034557235421166	struct>morph_h1	struct>morph	1	Morgan Fingerprints + kNN Regression	True	1
+0.07976961843052556	struct>morph_h1	struct>morph	1	Morgan Fingerprints + kNN Regression	True	1
+0.07760979121670267	struct>morph_h1	struct>morph	1	Morgan Fingerprints + kNN Regression	True	1
+0.18416126709863212	struct>morph_h5	struct>morph	5	Morgan Fingerprints + kNN Regression	True	1
+0.183585313174946	struct>morph_h5	struct>morph	5	Morgan Fingerprints + kNN Regression	True	1
+0.180849532037437	struct>morph_h5	struct>morph	5	Morgan Fingerprints + kNN Regression	True	1
+0.18156947444204463	struct>morph_h5	struct>morph	5	Morgan Fingerprints + kNN Regression	True	1
+0.1851691864650828	struct>morph_h5	struct>morph	5	Morgan Fingerprints + kNN Regression	True	1
+0.17912167026637868	struct>morph_h5	struct>morph	5	Morgan Fingerprints + kNN Regression	True	1
+0.28840892728581713	struct>morph_h10	struct>morph	10	Morgan Fingerprints + kNN Regression	True	1
+0.2897048236141109	struct>morph_h10	struct>morph	10	Morgan Fingerprints + kNN Regression	True	1
+0.2842332613390929	struct>morph_h10	struct>morph	10	Morgan Fingerprints + kNN Regression	True	1
+0.2861051115910727	struct>morph_h10	struct>morph	10	Morgan Fingerprints + kNN Regression	True	1
+0.28840892728581713	struct>morph_h10	struct>morph	10	Morgan Fingerprints + kNN Regression	True	1
+0.28581713462922964	struct>morph_h10	struct>morph	10	Morgan Fingerprints + kNN Regression	True	1
+0.08351331893448524	morph>struct_h1	morph>struct	1	Morgan Fingerprints + kNN Regression	True	1
+0.08423326133909287	morph>struct_h1	morph>struct	1	Morgan Fingerprints + kNN Regression	True	1
+0.08279337652987762	morph>struct_h1	morph>struct	1	Morgan Fingerprints + kNN Regression	True	1
+0.08466522678185745	morph>struct_h1	morph>struct	1	Morgan Fingerprints + kNN Regression	True	1
+0.08207343412526998	morph>struct_h1	morph>struct	1	Morgan Fingerprints + kNN Regression	True	1
+0.08149748020158387	morph>struct_h1	morph>struct	1	Morgan Fingerprints + kNN Regression	True	1
+0.19265658747300216	morph>struct_h5	morph>struct	5	Morgan Fingerprints + kNN Regression	True	1
+0.19524838012958964	morph>struct_h5	morph>struct	5	Morgan Fingerprints + kNN Regression	True	1
+0.18761699064074874	morph>struct_h5	morph>struct	5	Morgan Fingerprints + kNN Regression	True	1
+0.19193664506839453	morph>struct_h5	morph>struct	5	Morgan Fingerprints + kNN Regression	True	1
+0.1900647948164147	morph>struct_h5	morph>struct	5	Morgan Fingerprints + kNN Regression	True	1
+0.1861771058315335	morph>struct_h5	morph>struct	5	Morgan Fingerprints + kNN Regression	True	1
+0.28538516918646506	morph>struct_h10	morph>struct	10	Morgan Fingerprints + kNN Regression	True	1
+0.2863930885529158	morph>struct_h10	morph>struct	10	Morgan Fingerprints + kNN Regression	True	1
+0.28077753779697623	morph>struct_h10	morph>struct	10	Morgan Fingerprints + kNN Regression	True	1
+0.2862491000719942	morph>struct_h10	morph>struct	10	Morgan Fingerprints + kNN Regression	True	1
+0.2814974802015839	morph>struct_h10	morph>struct	10	Morgan Fingerprints + kNN Regression	True	1
+0.2855291576673866	morph>struct_h10	morph>struct	10	Morgan Fingerprints + kNN Regression	True	1
+0.07976961843052556	struct>morph_h1	struct>morph	1	Morgan Fingerprints + Linear Regression	True	0
+0.07904967602591792	struct>morph_h1	struct>morph	1	Morgan Fingerprints + Linear Regression	True	0
+0.07746580273578113	struct>morph_h1	struct>morph	1	Morgan Fingerprints + Linear Regression	True	0
+0.07746580273578113	struct>morph_h1	struct>morph	1	Morgan Fingerprints + Linear Regression	True	0
+0.07876169906407487	struct>morph_h1	struct>morph	1	Morgan Fingerprints + Linear Regression	True	0
+0.07919366450683946	struct>morph_h1	struct>morph	1	Morgan Fingerprints + Linear Regression	True	0
+0.20143988480921526	struct>morph_h5	struct>morph	5	Morgan Fingerprints + Linear Regression	True	0
+0.2021598272138229	struct>morph_h5	struct>morph	5	Morgan Fingerprints + Linear Regression	True	0
+0.20014398848092152	struct>morph_h5	struct>morph	5	Morgan Fingerprints + Linear Regression	True	0
+0.19640028797696185	struct>morph_h5	struct>morph	5	Morgan Fingerprints + Linear Regression	True	0
+0.20129589632829373	struct>morph_h5	struct>morph	5	Morgan Fingerprints + Linear Regression	True	0
+0.2	struct>morph_h5	struct>morph	5	Morgan Fingerprints + Linear Regression	True	0
+0.3282937365010799	struct>morph_h10	struct>morph	10	Morgan Fingerprints + Linear Regression	True	0
+0.3223902087832973	struct>morph_h10	struct>morph	10	Morgan Fingerprints + Linear Regression	True	0
+0.33002159827213823	struct>morph_h10	struct>morph	10	Morgan Fingerprints + Linear Regression	True	0
+0.32699784017278616	struct>morph_h10	struct>morph	10	Morgan Fingerprints + Linear Regression	True	0
+0.3252699784017279	struct>morph_h10	struct>morph	10	Morgan Fingerprints + Linear Regression	True	0
+0.3265658747300216	struct>morph_h10	struct>morph	10	Morgan Fingerprints + Linear Regression	True	0
+0.052843772498200145	morph>struct_h1	morph>struct	1	Morgan Fingerprints + Linear Regression	True	0
+0.054283657307415405	morph>struct_h1	morph>struct	1	Morgan Fingerprints + Linear Regression	True	0
+0.05341972642188625	morph>struct_h1	morph>struct	1	Morgan Fingerprints + Linear Regression	True	0
+0.0531317494600432	morph>struct_h1	morph>struct	1	Morgan Fingerprints + Linear Regression	True	0
+0.0564434845212383	morph>struct_h1	morph>struct	1	Morgan Fingerprints + Linear Regression	True	0
+0.05327573794096472	morph>struct_h1	morph>struct	1	Morgan Fingerprints + Linear Regression	True	0
+0.15421166306695464	morph>struct_h5	morph>struct	5	Morgan Fingerprints + Linear Regression	True	0
+0.15046796256299497	morph>struct_h5	morph>struct	5	Morgan Fingerprints + Linear Regression	True	0
+0.15334773218142547	morph>struct_h5	morph>struct	5	Morgan Fingerprints + Linear Regression	True	0
+0.15205183585313176	morph>struct_h5	morph>struct	5	Morgan Fingerprints + Linear Regression	True	0
+0.15521958243340533	morph>struct_h5	morph>struct	5	Morgan Fingerprints + Linear Regression	True	0
+0.153491720662347	morph>struct_h5	morph>struct	5	Morgan Fingerprints + Linear Regression	True	0
+0.26724262059035275	morph>struct_h10	morph>struct	10	Morgan Fingerprints + Linear Regression	True	0
+0.26724262059035275	morph>struct_h10	morph>struct	10	Morgan Fingerprints + Linear Regression	True	0
+0.271130309575234	morph>struct_h10	morph>struct	10	Morgan Fingerprints + Linear Regression	True	0
+0.26709863210943124	morph>struct_h10	morph>struct	10	Morgan Fingerprints + Linear Regression	True	0
+0.271130309575234	morph>struct_h10	morph>struct	10	Morgan Fingerprints + Linear Regression	True	0
+0.26882649388048957	morph>struct_h10	morph>struct	10	Morgan Fingerprints + Linear Regression	True	0
+0.07458603311735061	struct>morph_h1	struct>morph	1	Morgan Fingerprints + MLP Regression	True	2
+0.03801295896328294	struct>morph_h1	struct>morph	1	Morgan Fingerprints + MLP Regression	True	2
+0.06047516198704104	struct>morph_h1	struct>morph	1	Morgan Fingerprints + MLP Regression	True	2
+0.06594672426205904	struct>morph_h1	struct>morph	1	Morgan Fingerprints + MLP Regression	True	2
+0.06090712742980561	struct>morph_h1	struct>morph	1	Morgan Fingerprints + MLP Regression	True	2
+0.06105111591072714	struct>morph_h1	struct>morph	1	Morgan Fingerprints + MLP Regression	True	2
+0.1896328293736501	struct>morph_h5	struct>morph	5	Morgan Fingerprints + MLP Regression	True	2
+0.10712742980561556	struct>morph_h5	struct>morph	5	Morgan Fingerprints + MLP Regression	True	2
+0.16601871850251979	struct>morph_h5	struct>morph	5	Morgan Fingerprints + MLP Regression	True	2
+0.18704103671706263	struct>morph_h5	struct>morph	5	Morgan Fingerprints + MLP Regression	True	2
+0.1802735781137509	struct>morph_h5	struct>morph	5	Morgan Fingerprints + MLP Regression	True	2
+0.1759539236861051	struct>morph_h5	struct>morph	5	Morgan Fingerprints + MLP Regression	True	2
+0.31605471562275017	struct>morph_h10	struct>morph	10	Morgan Fingerprints + MLP Regression	True	2
+0.2005759539236861	struct>morph_h10	struct>morph	10	Morgan Fingerprints + MLP Regression	True	2
+0.2911447084233261	struct>morph_h10	struct>morph	10	Morgan Fingerprints + MLP Regression	True	2
+0.3154787616990641	struct>morph_h10	struct>morph	10	Morgan Fingerprints + MLP Regression	True	2
+0.2986321094312455	struct>morph_h10	struct>morph	10	Morgan Fingerprints + MLP Regression	True	2
+0.3013678905687545	struct>morph_h10	struct>morph	10	Morgan Fingerprints + MLP Regression	True	2
+0.05197984161267099	morph>struct_h1	morph>struct	1	Morgan Fingerprints + MLP Regression	True	2
+0.04362850971922246	morph>struct_h1	morph>struct	1	Morgan Fingerprints + MLP Regression	True	2
+0.032397408207343416	morph>struct_h1	morph>struct	1	Morgan Fingerprints + MLP Regression	True	2
+0.03758099352051836	morph>struct_h1	morph>struct	1	Morgan Fingerprints + MLP Regression	True	2
+0.04521238300935925	morph>struct_h1	morph>struct	1	Morgan Fingerprints + MLP Regression	True	2
+0.04722822174226062	morph>struct_h1	morph>struct	1	Morgan Fingerprints + MLP Regression	True	2
+0.15133189344852413	morph>struct_h5	morph>struct	5	Morgan Fingerprints + MLP Regression	True	2
+0.1402447804175666	morph>struct_h5	morph>struct	5	Morgan Fingerprints + MLP Regression	True	2
+0.1074154067674586	morph>struct_h5	morph>struct	5	Morgan Fingerprints + MLP Regression	True	2
+0.12224622030237581	morph>struct_h5	morph>struct	5	Morgan Fingerprints + MLP Regression	True	2
+0.15248380129589634	morph>struct_h5	morph>struct	5	Morgan Fingerprints + MLP Regression	True	2
+0.13592512598992082	morph>struct_h5	morph>struct	5	Morgan Fingerprints + MLP Regression	True	2
+0.27314614830813533	morph>struct_h10	morph>struct	10	Morgan Fingerprints + MLP Regression	True	2
+0.2570194384449244	morph>struct_h10	morph>struct	10	Morgan Fingerprints + MLP Regression	True	2
+0.21051115910727142	morph>struct_h10	morph>struct	10	Morgan Fingerprints + MLP Regression	True	2
+0.21943844492440603	morph>struct_h10	morph>struct	10	Morgan Fingerprints + MLP Regression	True	2
+0.2598992080633549	morph>struct_h10	morph>struct	10	Morgan Fingerprints + MLP Regression	True	2
+0.24938804895608352	morph>struct_h10	morph>struct	10	Morgan Fingerprints + MLP Regression	True	2

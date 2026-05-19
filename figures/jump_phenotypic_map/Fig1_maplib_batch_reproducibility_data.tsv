@@ -1,0 +1,25 @@
+variable	dataset	ks_statistic	metric_type
+Batch	CellProfiler	0.0668	batch_effects
+Perturbation	CellProfiler	0.2066	reproducibility
+Plate	CellProfiler	0.0591	batch_effects
+Source	CellProfiler	0.0341	batch_effects
+Batch	"CellProfiler
+(Batch Correction)"	0.0291	batch_effects
+Perturbation	"CellProfiler
+(Batch Correction)"	0.1652	reproducibility
+Plate	"CellProfiler
+(Batch Correction)"	0.0643	batch_effects
+Source	"CellProfiler
+(Batch Correction)"	0.0193	batch_effects
+Batch	DINO ViT	0.2135	batch_effects
+Perturbation	DINO ViT	0.235	reproducibility
+Plate	DINO ViT	0.2369	batch_effects
+Source	DINO ViT	0.1673	batch_effects
+Batch	"DINO ViT
+(Batch Correction)"	0.0647	batch_effects
+Perturbation	"DINO ViT
+(Batch Correction)"	0.2851	reproducibility
+Plate	"DINO ViT
+(Batch Correction)"	0.0406	batch_effects
+Source	"DINO ViT
+(Batch Correction)"	0.0575	batch_effects

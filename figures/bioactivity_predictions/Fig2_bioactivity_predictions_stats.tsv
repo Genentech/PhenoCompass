@@ -1,0 +1,5 @@
+comparison	test	statistic	p_value	alternative
+PhenoCompass vs GNEprop Embeddings + Logistic Regression	wilcoxon_ranksum	2.8823067684915684	0.0019738759284517286	greater
+PhenoCompass vs GNEprop Embeddings + kNN Classifier	wilcoxon_ranksum	2.8823067684915684	0.0019738759284517286	greater
+PhenoCompass vs Morgan Fingerprints + Logistic Regression	wilcoxon_ranksum	2.8823067684915684	0.0019738759284517286	greater
+PhenoCompass vs Morgan Fingerprints + kNN Classifier	wilcoxon_ranksum	2.8823067684915684	0.0019738759284517286	greater

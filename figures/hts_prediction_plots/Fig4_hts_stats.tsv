@@ -1,0 +1,13 @@
+drug_target	comparison	test	statistic	p_value	alternative
+pi3k	pIC50 >= 5 vs Primary screen only	wilcoxon_ranksum	16.51804145004947	1.3604563252973484e-61	greater
+pi3k	pIC50 > 7 vs 5 < pIC50 <= 7	wilcoxon_ranksum	4.344434551016873	6.981743263605606e-06	greater
+pi3k	ChEMBL Drugs vs gProbe pIC50 > 6	wilcoxon_ranksum	7.138143156913984	4.73000413920456e-13	greater
+pi3k	ChEMBL Drugs vs Secondary Screen	wilcoxon_ranksum	10.153575141599784	1.597210451982252e-24	greater
+jak	pIC50 >= 5 vs Primary screen only	wilcoxon_ranksum	14.322725053662126	7.890584653799127e-47	greater
+jak	pIC50 > 7 vs 5 < pIC50 <= 7	wilcoxon_ranksum	-0.06916378645874253	0.5275703758641924	greater
+jak	ChEMBL Drugs vs gProbe pIC50 > 6	wilcoxon_ranksum	6.86416079108279	3.3441631815073503e-12	greater
+jak	ChEMBL Drugs vs Secondary Screen	wilcoxon_ranksum	12.65876403573812	5.003114825541824e-37	greater
+hdac	pIC50 >= 5 vs Primary screen only	wilcoxon_ranksum	36.73697246150377	9.385377683247756e-296	greater
+hdac	pIC50 > 7 vs 5 < pIC50 <= 7	wilcoxon_ranksum	21.90854121590475	1.0768530968232307e-106	greater
+hdac	ChEMBL Drugs vs gProbe pIC50 > 6	wilcoxon_ranksum	5.076029716248146	1.9270152212981824e-07	greater
+hdac	ChEMBL Drugs vs Secondary Screen	wilcoxon_ranksum	6.647605642004255	1.4894958287160424e-11	greater

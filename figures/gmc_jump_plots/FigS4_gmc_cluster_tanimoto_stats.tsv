@@ -1,0 +1,2 @@
+comparison	test	statistic	p_value	alternative
+Scaffold-Cluster Split vs Scaffold Split	wilcoxon_ranksum	-20.413817864601295	6.302193524355882e-93	less

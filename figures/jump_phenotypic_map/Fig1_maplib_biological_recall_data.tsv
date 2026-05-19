@@ -1,0 +1,21 @@
+dataset	ground_truth	global_recall_one-sided	local_recall_one-sided
+CellProfiler	"OpenTarget
+(MoA)"	0.1286019210245464	0.1251334044823906
+CellProfiler	"OpenTarget
+(Gene)"	0.1169009256085018	0.1055879328076791
+"CellProfiler
+(Batch Correction)"	"OpenTarget
+(MoA)"	0.2027748132337246	0.1694236926360725
+"CellProfiler
+(Batch Correction)"	"OpenTarget
+(Gene)"	0.1672951662667123	0.1372985944463489
+DINO ViT	"OpenTarget
+(MoA)"	0.1590181430096051	0.147812166488794
+DINO ViT	"OpenTarget
+(Gene)"	0.1388412752828248	0.1259856016455262
+"DINO ViT
+(Batch Correction)"	"OpenTarget
+(MoA)"	0.2251867662753468	0.1961045891141942
+"DINO ViT
+(Batch Correction)"	"OpenTarget
+(Gene)"	0.1864929722317449	0.1592389441206719

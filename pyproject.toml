@@ -1,0 +1,113 @@
+[build-system]
+requires = ["setuptools>=61.0", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "phenocompass"
+version = "0.1.0"
+description = "Multimodal deep learning framework for phenotypic virtual screening at billion-compound scale"
+readme = "README.md"
+license = {text = "MIT"}
+requires-python = ">=3.8"
+authors = [
+    {name = "Alexander P. Wu", email = "wu.alexander@gene.com"},
+]
+keywords = [
+    "drug-discovery",
+    "cell-painting",
+    "multimodal-learning",
+    "contrastive-learning",
+    "phenotypic-screening",
+    "virtual-screening"
+]
+classifiers = [
+    "Development Status :: 4 - Beta",
+    "Intended Audience :: Science/Research",
+    "License :: OSI Approved :: MIT License",
+    "Programming Language :: Python :: 3",
+    "Programming Language :: Python :: 3.8",
+    "Programming Language :: Python :: 3.9",
+    "Programming Language :: Python :: 3.10",
+    "Programming Language :: Python :: 3.11",
+    "Topic :: Scientific/Engineering :: Bio-Informatics",
+    "Topic :: Scientific/Engineering :: Artificial Intelligence",
+]
+dependencies = [
+    "torch>=1.12.0",
+    "pytorch-lightning>=1.9.0",
+    "torch-geometric>=2.0.0",
+    "numpy>=1.21.0",
+    "pandas>=1.3.0",
+    "scikit-learn>=1.0.0",
+    "rdkit>=2022.03.1",
+    "h5py>=3.0.0",
+    "hydra-core>=1.2.0",
+    "omegaconf>=2.1.0",
+    "tqdm>=4.60.0",
+    "descriptastorus>=2.0.0",
+    "deepchem>=2.6.0",
+    "scipy>=1.7.0",
+]
+
+[project.optional-dependencies]
+notebooks = [
+    "matplotlib>=3.5.0",
+    "seaborn>=0.11.0",
+    "umap-learn>=0.5.0",
+    "scanpy>=1.9.0",
+    "anndata>=0.8.0",
+    "jupyter>=1.0.0",
+]
+dev = [
+    "pytest>=7.0.0",
+    "pytest-cov>=3.0.0",
+    "black>=22.0.0",
+    "isort>=5.10.0",
+    "mypy>=0.990",
+    "ruff>=0.0.200",
+]
+wandb = [
+    "wandb>=0.12.0",
+]
+dino = [
+    "kornia>=0.6.0",
+    "wandb>=0.12.0",
+    "zarr>=2.10.0",
+    "s3fs>=2022.1.0",
+    "boto3>=1.20.0",
+    "xarray>=0.20.0",
+]
+
+[project.scripts]
+phenocompass-train = "phenocompass.training.pretrain:train"
+phenocompass-dino-train = "phenocompass.training.dino_train:train_dino"
+
+[project.urls]
+Homepage = "https://github.com/genentech/phenocompass"
+Documentation = "https://github.com/genentech/phenocompass#readme"
+Repository = "https://github.com/genentech/phenocompass"
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[tool.setuptools.package-data]
+phenocompass = ["configs/**/*.yaml"]
+
+[tool.black]
+line-length = 100
+target-version = ["py38", "py39", "py310", "py311"]
+
+[tool.isort]
+profile = "black"
+line_length = 100
+
+[tool.ruff]
+line-length = 100
+target-version = "py38"
+select = ["E", "F", "W", "I", "N", "D", "UP", "B", "C4", "SIM"]
+ignore = ["D100", "D101", "D102", "D103", "D104", "D105", "D107"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+python_files = ["test_*.py"]
+addopts = "-v --tb=short"

@@ -1,0 +1,9 @@
+# Retrieval Evaluation Configuration
+_target_: phenocompass.evaluation.metrics.RetrievalOnlineEvaluator
+retrieval_pairs: null
+neg_size: 99
+seed: 0
+batch_match: true
+batch_size: 512
+l1_thresh: 0.5
+use_knn: true

@@ -1,0 +1,27 @@
+# Main Pretraining Configuration
+defaults:
+  - datamodule: jump_fast.yaml
+  - model: triple_gmc.yaml
+  - callbacks: default.yaml
+  - trainer: default.yaml
+  - evaluation: retrieval.yaml
+  - _self_
+
+# Override defaults here
+model:
+  temperature: 0.2
+  encode_dim: 256
+  proj_dim: 256
+  latent_dim: 256
+  hid_dim: 256
+  dropout: 0.1
+
+trainer:
+  max_epochs: 500
+
+datamodule:
+  split_type: scaffold
+  batch_size: 128
+  shuffle_train: true
+
+seed: 0

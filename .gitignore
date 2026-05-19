@@ -1,0 +1,46 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+.ipynb_checkpoints/
+
+# Environments
+.env
+.venv
+env/
+venv/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Core dumps
+core.*
+
+# Logs
+logs/
+slurm-*.out
+
+# Python build artifacts
+*.egg-info/
+
+# Heavy datasets and model checkpoints (download separately from Zenodo)
+final_data/
+final_model/
+
+# Per-notebook output caches (regenerable from final_data/ inputs)
+data/loo_comparisons_cache/
+data/cellpainting_validation/
+data/cross_source_reproducibility/
+data/jump_enamine_similarities/
+data/jump_phenotypic_map/
+data/leave_one_out_evaluation_test/
+data/map_evaluations/
