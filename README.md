@@ -2,7 +2,7 @@
 
 PhenoCompass is a multimodal deep learning framework designed to enable phenotypic virtual screening at the scale of billions of compounds. It combines Cell Painting morphological profiles with chemical structure embeddings to score molecules against mechanism-of-action (MoA) anchor sets.
 
-Pretrained models and input data are available on Zenodo: [10.5281/zenodo.20059046](https://doi.org/10.5281/zenodo.20059046).
+Pretrained models and input data are available on Zenodo: [10.5281/zenodo.20367744](https://doi.org/10.5281/zenodo.20367744).
 
 ## Installation
 
