@@ -6,6 +6,7 @@ Cell Painting validation pipeline configuration.
 """
 
 import os
+import warnings
 from dataclasses import dataclass, field
 from typing import Dict, List, Optional, Tuple
 
@@ -20,24 +21,43 @@ _ANNOTATIONS_DIR = os.path.normpath(os.path.join(
 ))
 
 
-def load_negative_controls(annotations_dir=None):
+def _read_annotation_tsv(fname, annotations_dir=None, required=True):
+    """Read an annotation TSV; if not ``required`` and missing, warn and return None.
+
+    Module-level constants use ``required=False`` so that importing the package
+    (e.g. for inference) does not depend on the separately deposited final_data/.
+    """
+    path = os.path.join(annotations_dir or _ANNOTATIONS_DIR, fname)
+    if not required and not os.path.isfile(path):
+        warnings.warn(
+            f"{path} not found; JUMP map evaluation constants are unavailable. "
+            "Download final_data/ from the PhenoCompass Zenodo record to use them."
+        )
+        return None
+    return pd.read_csv(path, sep="\t")
+
+
+def load_negative_controls(annotations_dir=None, required=True):
     """Load JUMP negative controls from TSV -> dict[pert_type] -> list[pert_id]."""
-    path = os.path.join(annotations_dir or _ANNOTATIONS_DIR, "jump_negative_controls.tsv")
-    df = pd.read_csv(path, sep="\t")
+    df = _read_annotation_tsv("jump_negative_controls.tsv", annotations_dir, required)
+    if df is None:
+        return {}
     return df.groupby("perturbation_type")["perturbation_id"].apply(list).to_dict()
 
 
-def load_cp_validation_controls(annotations_dir=None):
+def load_cp_validation_controls(annotations_dir=None, required=True):
     """Load CP validation controls from TSV -> dict[control_type] -> list[compound_id]."""
-    path = os.path.join(annotations_dir or _ANNOTATIONS_DIR, "map_evaluation_controls.tsv")
-    df = pd.read_csv(path, sep="\t")
+    df = _read_annotation_tsv("map_evaluation_controls.tsv", annotations_dir, required)
+    if df is None:
+        return {}
     return df.groupby("control_type")["compound_id"].apply(list).to_dict()
 
 
-def load_dmso_jcp_id(annotations_dir=None):
+def load_dmso_jcp_id(annotations_dir=None, required=True):
     """Load DMSO JCP ID from negative controls TSV."""
-    path = os.path.join(annotations_dir or _ANNOTATIONS_DIR, "jump_negative_controls.tsv")
-    df = pd.read_csv(path, sep="\t")
+    df = _read_annotation_tsv("jump_negative_controls.tsv", annotations_dir, required)
+    if df is None:
+        return None
     return df.loc[df["description"] == "DMSO", "perturbation_id"].iloc[0]
 
 
@@ -62,10 +82,10 @@ class JUMPFields:
 
 
 # Control compound definitions by perturbation type (loaded from TSV)
-NEGATIVE_CONTROLS: Dict[str, List[str]] = load_negative_controls()
+NEGATIVE_CONTROLS: Dict[str, List[str]] = load_negative_controls(required=False)
 
 # DMSO JCP identifier (loaded from TSV)
-DMSO_JCP_ID: str = load_dmso_jcp_id()
+DMSO_JCP_ID: Optional[str] = load_dmso_jcp_id(required=False)
 
 # Default sources to include (excluding known problematic sources 4, 7, 9, 13)
 DEFAULT_INCLUDED_SOURCES: List[str] = [
@@ -140,7 +160,7 @@ class EvalConfig:
 # Cell Painting Validation Controls (from nuvisan/map-lib DefaultSubsets)
 # =============================================================================
 
-CP_VALIDATION_CONTROLS: Dict[str, List[str]] = load_cp_validation_controls()
+CP_VALIDATION_CONTROLS: Dict[str, List[str]] = load_cp_validation_controls(required=False)
 
 
 @dataclass

@@ -27,6 +27,7 @@ import pandas as pd
 from sklearn.metrics.pairwise import cosine_similarity
 
 from phenocompass.models.contrastive import TripleContrastive_PL
+from phenocompass.models.utils import load_trusted_checkpoint
 from phenocompass.inference.ensemble import EnsembleOfModels
 from phenocompass.evaluation.metrics import compute_fewshot_similarities
 
@@ -264,7 +265,8 @@ class PhenoCompass:
                 model_class_list.append(f"{family}_{seed}")
 
         model_list = [
-            TripleContrastive_PL.load_from_checkpoint(p) for p in ckpt_paths
+            load_trusted_checkpoint(TripleContrastive_PL, p, map_location="cpu")
+            for p in ckpt_paths
         ]
 
         gneprop_ckpt_path = os.path.join(ckpts_dir, _GNEPROP_CKPT_SUBPATH)

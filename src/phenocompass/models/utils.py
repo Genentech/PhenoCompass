@@ -1,8 +1,60 @@
 """Model utilities."""
 
 import collections
+import inspect
 import os
+import sys
+import types
 from typing import List, Optional
+
+# Released checkpoints were trained under the package's former name and pickle
+# nn.Module hyperparameters from this path.
+_LEGACY_COMPONENTS_MODULE = "multimodal_contrastive.networks.components"
+
+
+def register_legacy_module_aliases():
+    """Alias the pre-release ``multimodal_contrastive`` package to ``phenocompass``.
+
+    The released PhenoCompass checkpoints store encoder modules in their
+    hyperparameters under ``multimodal_contrastive.networks.components``.
+    Mapping that path onto ``phenocompass.models.components`` (same class
+    names and attributes) lets them unpickle without the original package.
+    """
+    from phenocompass.models import components
+
+    parts = _LEGACY_COMPONENTS_MODULE.split(".")
+    for i in range(1, len(parts)):
+        name = ".".join(parts[:i])
+        sys.modules.setdefault(name, types.ModuleType(name))
+    sys.modules.setdefault(_LEGACY_COMPONENTS_MODULE, components)
+
+
+def load_trusted_checkpoint(module_cls, checkpoint_path, **kwargs):
+    """Load a released PhenoCompass/GNEprop Lightning checkpoint.
+
+    The checkpoints pickle omegaconf, typing and nn.Module objects, which
+    PyTorch >= 2.6 rejects under its ``weights_only=True`` default. Only use
+    this for checkpoints from a trusted source (e.g. the PhenoCompass Zenodo
+    release), since full unpickling can execute arbitrary code.
+
+    Parameters
+    ----------
+    module_cls : type
+        LightningModule subclass providing ``load_from_checkpoint``.
+    checkpoint_path : str
+        Path to the ``.ckpt`` file.
+    **kwargs
+        Forwarded to ``load_from_checkpoint`` (e.g. ``map_location``).
+
+    Returns
+    -------
+    LightningModule
+        The loaded model.
+    """
+    register_legacy_module_aliases()
+    if "weights_only" in inspect.signature(module_cls.load_from_checkpoint).parameters:
+        kwargs.setdefault("weights_only", False)
+    return module_cls.load_from_checkpoint(checkpoint_path, **kwargs)
 
 
 def move_batch_input_to_device(x, device):

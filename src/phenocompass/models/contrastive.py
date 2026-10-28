@@ -12,7 +12,7 @@ from torch.nn import ModuleDict
 
 from phenocompass.models.components import CommonEncoder, JointEncoder, MultiTask_model
 from phenocompass.models.loss import get_loss
-from phenocompass.models.utils import move_batch_input_to_device
+from phenocompass.models.utils import load_trusted_checkpoint, move_batch_input_to_device
 from phenocompass.training.utils import LARS
 from tqdm import tqdm
 
@@ -396,7 +396,7 @@ class MultiTask_PL(pl.LightningModule):
         self.mod_name = mod_name
         if backbone is None:
             if backbone_name == "gmc":
-                backbone = TripleContrastive_PL.load_from_checkpoint(ckp)
+                backbone = load_trusted_checkpoint(TripleContrastive_PL, ckp)
         self.model = MultiTask_model(
             backbone=backbone,
             loss_name=loss_name,

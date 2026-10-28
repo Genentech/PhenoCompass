@@ -399,10 +399,10 @@ class GNEpropGIN(torch.nn.Module):
 
         print(pretrain_path)
         if os.path.isfile(pretrain_path):
-            model_pretrained = SimCLR.load_from_checkpoint(pretrain_path)
+            model_pretrained = ut.load_trusted_checkpoint(SimCLR, pretrain_path)
         elif os.path.isdir(pretrain_path):
             pretrain_full_path = ut.get_checkpoint_paths(checkpoint_dir=pretrain_path)[0]
-            model_pretrained = SimCLR.load_from_checkpoint(pretrain_full_path)
+            model_pretrained = ut.load_trusted_checkpoint(SimCLR, pretrain_full_path)
         else:
             raise ValueError("Invalid argument: pretrain path")
 

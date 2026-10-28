@@ -62,7 +62,7 @@ All notebooks live in `notebooks/` and are prefixed with their manuscript figure
 
 ## Requirements
 
-- Python >= 3.8
+- Python >= 3.11
 - PyTorch >= 1.12.0
 - PyTorch Lightning >= 1.9.0
 - PyTorch Geometric >= 2.0.0

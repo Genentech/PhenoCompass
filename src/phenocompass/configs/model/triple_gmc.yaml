@@ -27,7 +27,7 @@ encoders_mod:
     jk: none
   morph:
     _target_: phenocompass.models.components.MultiLayerPerceptron
-    num_input_features: 3297
+    num_input_features: 1536  # DINO + TVN Cell Painting features (JUMP map v3a)
     hidden_layer_dimensions:
       - ${....hid_dim}
       - ${....hid_dim}
